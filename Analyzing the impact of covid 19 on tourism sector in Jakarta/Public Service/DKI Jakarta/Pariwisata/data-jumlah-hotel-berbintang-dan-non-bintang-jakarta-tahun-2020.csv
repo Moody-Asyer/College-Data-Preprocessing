@@ -1,0 +1,427 @@
+nama_usaha,jenis,golongan,jumlah_kamar,alamat,wilayah
+CIPUTRA,Hotel Bintang,Bintang 4,333,Jl. Letjend S. Parman,Jakarta Barat
+GRAND TROPIC SUITES HOTEL,Hotel Bintang,Bintang 4,195,Jl. Letjen S. Parman Kav. 3 RT. 007/02,Jakarta Barat
+MENARA PENINSULA,Hotel Bintang,Bintang 4,400,Jl. Letjen S. Parman  78,Jakarta Barat
+HOTEL SANTIKA PREMIERE JAKARTA,Hotel Bintang,Bintang 4,275,Jl. Aipda KS. Tubun No. 7,Jakarta Barat
+TWIN PLAZA,Hotel Bintang,Bintang 4,211,Jl. Letjen S. Parman Kav. 93-94,Jakarta Barat
+FM.1 BOUTIQUE,Hotel Bintang,Bintang 3,64,Jl. Let. Jend S. Parman Raya Kav. 8,Jakarta Barat
+COMFORT,Hotel Bintang,Bintang,40,Jl. Latumenten No. 50,Jakarta Barat
+HOTEL GRAND TJOKRO,Hotel Melati,Melati 3,100,Jl. Daan Mogot No. 63,Jakarta Barat
+GROGOL  2,Motel,Motel,24,Jl. Daan Mogot No. 79,Jakarta Barat
+PONDOK CITRA GROGOL,Motel,Motel,53,Jl. Daan Mogot No. 111,Jakarta Barat
+PONDOK MITRA KENCANA LESTARI,Motel,Motel,86,Jl. Latumenten No. 50,Jakarta Barat
+IBIS SLIPI,Hotel Bintang,Bintang 3,338,Jl. Letjen S. Parman Kav. 58-59,Jakarta Barat
+PITAGIRI,Hotel Bintang,Bintang,127,Jl. Palmerah Barat No. 110,Jakarta Barat
+MEGA ANGGREK,Hotel Bintang,Bintang 3,200,Jl. Arjuna Selatan No. 4A,Jakarta Barat
+GERBANG PURNAMA,Motel,Motel,49,Jl. Terusan Arjuna No. 7,Jakarta Barat
+HOTEL TRANSIT TOMANG,Motel,Motel,37,Jl. Kedoya Raya RT. 007/03,Jakarta Barat
+GOLDEN CROWN,Hotel Bintang,Bintang,40,Jl. Pinangsia Raya No. 1,Jakarta Barat
+HOTEL ASTON,Hotel Bintang,Bintang,156,Jl. Raya Kamal Outering Road Blok C-01 No. 18,Jakarta Barat
+AGUSTA  CENGKARENG,Hotel Melati,Melati 3,46,Jl. Kamal Raya Ling.Luar Barat No. 1,Jakarta Barat
+MERCURE JAKARTA KOTA,Hotel Bintang,Bintang 4,243,Jl. Hayam Wuruk No. 123,Jakarta Barat
+JAYAKARTA HOTEL,Hotel Bintang,Bintang 4,335,Jl. Hayam Wuruk No. 126,Jakarta Barat
+OLYMPIC,Hotel Bintang,Bintang 2,103,Jl. Mangga Besar VII BLOK A.63,Jakarta Barat
+ROYAL REGAL,Hotel Bintang,Bintang 3,180,Jl. Mangga Besar Raya VIII No. 27,Jakarta Barat
+1001 ENTERTAINMENT CLUB,Hotel Bintang,Bintang 3,50,Jl. Kunir No. 7,Jakarta Barat
+ARWANA,Hotel Bintang,Bintang 2,107,Jl. Mangga Besar VIII No. 7,Jakarta Barat
+SPARKS HOTEL JAKARTA,Hotel Bintang,Bintang 3,113,Jl. Mangga Besar Raya No. 44,Jakarta Barat
+HOTEL ASTIKA,Hotel Bintang,Bintang 2,153,Jl. Mangga Besar Raya No. 76,Jakarta Barat
+PRINSEN PARK,Hotel Bintang,Bintang 2,89,Jl. Mangga Besar IX/83-85,Jakarta Barat
+TRAVEL,Hotel Bintang,Bintang 2,59,Jl. Mangga Besar VIII No. 21,Jakarta Barat
+PENINSULA HOTEL,Hotel Bintang,Bintang 1,90,Jl. Mangga Besar Raya No. 60,Jakarta Barat
+SYDNEY 2000,Hotel Bintang,Bintang,36,Jl. Hayam Wuruk Komp Glodok Jaya Lt. 8,Jakarta Barat
+MILLE'S,Hotel Bintang,Bintang,40,Lokasari Plaza Lt. 4 Jl. Mangga Besar Raya No. 81,Jakarta Barat
+CHITRA,Hotel Melati,Melati 3,93,Jl. Toko Tiga Seberang 23,Jakarta Barat
+FORTUNA,Hotel Melati,Melati 2,38,Jl. Pancoran No. 42,Jakarta Barat
+KAFILA,Hotel Melati,Melati 2,80,Jl. Sukarjo Wiryopranoto 45 A-B,Jakarta Barat
+CAPITOL,Hotel Melati,Melati 3,43,Jl. Toko Tiga Seberang 27,Jakarta Barat
+LABU INDAH,Hotel Melati,Melati 3,40,Jl. Labu No. 49-51  Mabes Barat,Jakarta Barat
+NEW MANGGA BESAR,Hotel Melati,Melati 2,33,Jl. Mangga Besar Raya No. 68 B-C,Jakarta Barat
+TRANS MANGGA DUA,Hotel Melati,Melati 3,53,Jl. Mangga Dua Raya No.22,Jakarta Barat
+NEW  MG,Hotel Melati,Melati 2,46,Jl. Mangga Besar Raya No. 38 AS,Jakarta Barat
+PERINSEN,Hotel Melati,Melati 3,50,Jl. Mangga Besar Raya No. 103-105 Belakang,Jakarta Barat
+PERMAI,Hotel Melati,Melati 3,95,Jl. Mangga Besar Raya No. 24,Jakarta Barat
+PINANGSIA,Hotel Melati,Melati 2,40,Jl. Pinangsia I No. 55,Jakarta Barat
+PINTU BESAR,Hotel Melati,Melati 3,51,Jl. Pintu Besar Selatan No. 42,Jakarta Barat
+PANCORAN JAYA,Hotel Melati,Melati 3,98,Jl. Pancoran Raya No. 38,Jakarta Barat
+FORTUNA II,Hotel Melati,Melati 2,40,Jl. Pintu Besar Selatan No. 69,Jakarta Barat
+TAMANSARI,Hotel Melati,Melati 3,80,Jl. Tamansari VI No. 14 B RT. 009/07,Jakarta Barat
+PERMATA,Hotel Melati,Melati 3,70,Jl. Sukarjo Wiryopranoto No. 5,Jakarta Barat
+BELVENA,Hotel Melati,Melati 3,24,Jl. Mangga Besar Raya V No. 49,Jakarta Barat
+PENTHOUSE,Hotel Melati,Melati 3,70,Jl. Mangga Besar IV No. 23,Jakarta Barat
+HOTEL FEODORA,Hotel Melati,Melati 3,54,Jl. Mangga Besar IV No. 18,Jakarta Barat
+MUSTIKA,Hotel Melati,Melati 2,48,Jl. Kemurnian VI No. 194,Jakarta Barat
+DE RIVIER,Hotel Bintang,Bintang 4,311,Jl. Kalibesar Barat 44-46,Jakarta Barat
+SUN CITY,Hotel Bintang,Bintang,100,Jl. Hayam Wuruk No. 127,Jakarta Barat
+JEMBATAN LIMA,Hotel Melati,Melati 2,35,Jl. Jembatan Lima No. 162,Jakarta Barat
+PURRI MELATI,Hotel Melati,Melati 2,40,Jl. Tiang bendera No. 67,Jakarta Barat
+SURABAYA PERMAI,Hotel Melati,Melati 2,40,Jl. Perniagaan Selatan No. 46,Jakarta Barat
+STADIUM,Hotel Bintang,Bintang,50,Jl. Hayam Wuruk No. 111 GG - HH - II,Jakarta Barat
+HOTEL 23,Hotel Melati,Melati 3,64,Jl. Kapuk Raya No. 23,Jakarta Barat
+GRAND PARAGON,Hotel Bintang,Bintang 3,100,Jl. Gajah Mada No. 126,Jakarta Barat
+ILLIGAL'S,Hotel Bintang,Bintang,42,Jl. Hayam Wuruk No. 108,Jakarta Barat
+BAMBOO INN,Hotel Melati,Melati 3,89,Jl. H. Saaman No. 9,Jakarta Barat
+MY HOTEL,Hotel Melati,Melati 3,70,Jl. Hayam Wuruk No. 127 A,Jakarta Barat
+THE PLAZA HOTEL GLODOK,Hotel Melati,Melati 3,90,Jl. Pinangsia Raya RT.006/07 Lt. 3,Jakarta Barat
+HOLLYWOOD,Hotel,Hotel,24,Jl. Kebon Jeruk XVIII No. 63 RT. 002/09,Jakarta Barat
+AMARIS,Hotel Melati,Melati 3,101,Jl. Mangga Besar Raya No. 7-9-11,Jakarta Barat
+HOTEL PULLMAN JAKARTA CENTRAL PARK,Hotel Bintang,Bintang,317,Podomoro City Jl. Letjen S. Parman Kav. 28,Jakarta Barat
+FEODORA HOTEL,Hotel Melati,Melati,50,"Jl. Dr. Susilo Raya No. 113 .A,B,C (C8) RT.001/05",Jakarta Barat
+ANTONI,Hotel Melati,Melati,33,Jl. Hayam Wuruk 111 RT. 003/09,Jakarta Barat
+HOTEL DE' QUR,Hotel,Hotel,41,Jl. Kali Besar Barat No. 27,Jakarta Barat
+WISMA TANJUNG DUREN RESIDENCE,Hotel Melati,Melati 3,26,Jl. Tanjung Duren Utara III F No. 48,Jakarta Barat
+NOVOTEL GAJAH MADA,Hotel Bintang,Bintang,235,Jl. Gajah Mada No. 188,Jakarta Barat
+HOTEL 88,Hotel Melati,Melati 3,161,Jl. Mangga Besar VIII RT. 008/01 No. 10 D,Jakarta Barat
+7 DAYS HOTEL,Hotel Melati,Melati 4,38,Jl. Mangga Besar Raya No. 67 C-D RT. 003/02,Jakarta Barat
+EVERYDAY,Hotel Melati,Melati,94,Jl. Mangga Besar Raya No. 20,Jakarta Barat
+WISMA MADU INN,Hotel Melati,Melati 3,32,Jl. Madu No. 36 RT. 003/03,Jakarta Barat
+BUSINESS HOTEL,Hotel Melati,Melati,75,Jl. Tomang Raya No. 51,Jakarta Barat
+AMARIS,Hotel Melati,Melati,121,Seasons City Lt. 2-3 Pusat Bisnis Jl. Latumenten No. 33,Jakarta Barat
+TUGU BATAVIA,Hotel Melati,Melati,60,"Jl. Kali Besar Barat No. 26,28,29,30,31,32,33",Jakarta Barat
+AMARIS HOTEL GROGOL,Hotel Melati,Melati ,80,Jl. Dr. Susilo Raya No. 4 RT. 001/03,Jakarta Barat
+FAVE HOTEL LTC GLODOK,Hotel Bintang,Bintang ,203,Gd. LTC Glodok Jl. Hayam Wuruk No. 127,Jakarta Barat
+B FASHION HOTEL,Hotel Bintang,Bintang ,132,Jl. Aranda No. 1,Jakarta Barat
+WORLD,Hotel Melati ,Melati 3,88,Jl. Bandengan Selatan No. 14 RT. 008/005,Jakarta Barat
+ATA HOTEL INDONESIA,Hotel Bintang,Bintang ,54,Graha Arteri Mas Jl. Kedoya Raya No. 41 / Jl. Panjang No. 68 Kav. 73,Jakarta Barat
+HOTEL AGRAHA JAKARTA,Hotel Bintang,Bintang 2,80,Jl. Bandengan Selatan No. 20 RT. 0011/05,Jakarta Barat
+HOTEL FAVE,Hotel Bintang ,Bintang ,108,Jl.Kembangan Abadi Utama/Jl.Kembangan Abadi Komp.Puri Kembangan Blok A.1,Jakarta Barat
+RED STAR HOTEL JAKARTA,Hotel Melati,Melati 3,70,"Jl. Mangga Besar VIII No. 12 X,W,V,Y RT. 008/001",Jakarta Barat
+7 DAYS HOTEL,Hotel Melati,Melati 3,48,Jl. Gajah Mada 196/Jl. Kemurnian IV,Jakarta Barat
+IBIS BUDGET JAKARTA DAAN MOGOT,Hotel Bintang,Bintang,218,Jl. Daan Mogot No. 50 B RT.005/03,Jakarta Barat
+HOTEL 88,Hotel Melati,Melati 3,161,Jl. Mangga Besar No. 62,Jakarta Barat
+MAX ONE HOTEL,Hotel Melati,Melati 3,100,Jl. Pasar Glodok Selatan No. 8-10 RT.002/001,Jakarta Barat
+HOTEL 88,Hotel Bintang,Bintang,95,Jl. Dr. Susilo Raya C-1 Perum PT. Hotel Internasional RT.001/005,Jakarta Barat
+NEW TOWN,Hotel Bintang,Bintang,40,Komplek THR Lokasari B/1-18,Jakarta Barat
+HOTEL SENTRAL,Hotel Bintang,Bintang 3,250,Jl. Pramuka Raya Kav. 63-64,Jakarta Pusat
+PURI MEGA,Hotel Bintang,Bintang 1,125,Jl. Rawamangun No. 59,Jakarta Pusat
+PATRA JASA JAKARTA HOTEL,Hotel Bintang,Bintang 3,52,Jl. Jend.  Ahmad Yani No. 2 RT. 003/04,Jakarta Pusat
+THE MEDIA HOTEL & TOWERS,Hotel Bintang,Bintang 5,350,Jl. Gunung Sahari Raya No. 3,Jakarta Pusat
+BOROBUDUR JAKARTA,Hotel Bintang,Bintang 5,695,Jl. Lapangan Banteng Selatan No. 1,Jakarta Pusat
+GOLDEN BOUTIQUE,Hotel Bintang,Bintang 4,230,Jl. Angkasa No. 1 Gunung Sahari Utara,Jakarta Pusat
+LE GRANDEUR,Hotel Bintang,Bintang 4,351,Jl. Mangga Dua Raya,Jakarta Pusat
+CLASSIC,Hotel Bintang,Bintang 4,133,Jl. H. Samanhudi No. 43-45,Jakarta Pusat
+ORCHARDZ P. JAYAKARTA,Hotel Bintang,Bintang 3,160,Jl. P. Jayakarta Blok 44/7-8,Jakarta Pusat
+TRINITI JAKARTA,Hotel Bintang,Bintang,96,Jl. Pembangunan III/4-6,Jakarta Pusat
+FASHION,Hotel Bintang,Bintang 2,58,Jl. Gunung Sahari XII No.2,Jakarta Pusat
+PRIMA INDAH,Hotel Bintang,Bintang,98,Jl. Gunung Sahari Raya No. 19/21,Jakarta Pusat
+MALIOBORO,Hotel Bintang,Bintang 3,60,Jl. Gajah Mada No. 13/H,Jakarta Pusat
+O R C H A R D Z,Hotel Bintang,Bintang 3,153,Jl. Industri Raya No. 8,Jakarta Pusat
+PECENONGAN CITY,Hotel Bintang,Bintang 1,84,Jl. Ceylon No. 19,Jakarta Pusat
+ROYAL,Hotel Bintang,Bintang 2,61,Jl. Ir. H. Juanda No. 14,Jakarta Pusat
+SURYA BARU,Hotel Bintang,Bintang 5,98,Jl. Batu Ceper No. 11 A,Jakarta Pusat
+SURYA,Hotel Bintang,Bintang 2,70,Jl. Batu Ceper 44-46,Jakarta Pusat
+MIRAH,Hotel Bintang,Bintang 1,61,Jl. Gunung Sahari XII/18,Jakarta Pusat
+BINTANG BARU,Hotel Bintang,Bintang 2,87,Jl. Dr. Sutomo No. 9,Jakarta Pusat
+BANYUWANGI SINTERA,Hotel Bintang,Bintang 1,60,Jl. H. Samanhudi 32 B-34,Jakarta Pusat
+LAUTZE INDAH,Hotel Melati,Melati 3,64,Jl. Lautze No. 24,Jakarta Pusat
+WISMA PERMAI,Hotel Melati,Melati 3,50,Jl. Lautze No. 50 A,Jakarta Pusat
+SEHAT,Hotel Melati,Melati 3,30,Jl. Mangga Besar Raya No. 117,Jakarta Pusat
+HARCO MANGGA DUA PLAZA,Hotel Melati,Melati 3,100,Jl. Mangga Dua Raya No. 22-23,Jakarta Pusat
+GRAND CEMPAKA,Hotel Bintang,Bintang 4,220,Jl. Letjen Suprapto No. 27,Jakarta Pusat
+HOTEL PURI JAYA,Hotel Bintang,Bintang 1,135,Jl. Percetakan Negara V/5,Jakarta Pusat
+PURI MEGA EXTENTION,Hotel Melati,Melati 2,21,Jl. Percetakan Negara VII No. 11,Jakarta Pusat
+C' ONE HOTEL CEMPAKA PUTIH,Hotel Bintang,Bintang 1,60,Jl. Letjen Suprapto,Jakarta Pusat
+HOTEL ARYADUTA JAKARTA,Hotel Bintang,Bintang 5,284,Jl. Prapatan 44-48,Jakarta Pusat
+REDTOP,Hotel Bintang,Bintang 4,390,Jl. Pecenongan No. 72,Jakarta Pusat
+ALILA,Hotel Bintang,Bintang 3,264,Jl. Pecenongan Kav. 7-17,Jakarta Pusat
+NEW HARMONI,Hotel Bintang,Bintang,68,Jl. Hayam Wuruk No. 1,Jakarta Pusat
+SRIWIJAYA HOTEL,Hotel Bintang,Bintang 2,129,Jl. Veteran No. 1,Jakarta Pusat
+LOSARI,Hotel Melati,Melati 3,80,Jl. KH. Hasyim Ashari No. 41-41A,Jakarta Pusat
+ROXY ROYAL,Hotel Melati,Melati 2,30,"Jl. Supiori No. 3-3A, 5-5A-5B",Jakarta Pusat
+CITI M. HOTEL,Hotel Melati,Melati 3,76,Jl. Tanah Abang I No 11 Petojo,Jakarta Pusat
+SHANGRI-LA,Hotel Bintang,Bintang 5,661,Jl. Jend. Sudirman Kav. I Karet Tengsin,Jakarta Pusat
+MULIA SENAYAN,Hotel Bintang,Bintang 5,889,Jl. Asia Afrika No. 1,Jakarta Pusat
+LE MERIDIEN JAKARTA,Hotel Bintang,Bintang 5,346,Jl. Jend. Sudirman Kav. 18 - 20,Jakarta Pusat
+THE SULTAN HOTEL,Hotel Bintang,Bintang 5,649,Jl. Jend. Gatot Subroto,Jakarta Pusat
+HOTEL INDONESIA KEMPINSKI,Hotel Bintang,Bintang,289,Jl. MH. Thamrin No. 1,Jakarta Pusat
+ATLET CENTURY PARK,Hotel Bintang,Bintang 4,613,Jl. Pintu Satu  Senayan,Jakarta Pusat
+FORTUNE,Hotel Bintang,Bintang,50,Jl. KH. Mas Mansyur No. 13,Jakarta Pusat
+CARAVAN,Hotel Bintang,Bintang,40,Jl. KH. Mas Mansyur No. 50,Jakarta Pusat
+TUGU ASRI,Hotel Bintang,Bintang 1,30,Jl. Jatibaru No. 7-9,Jakarta Pusat
+HOTEL  N1,Hotel Bintang,Bintang 2,84,Jl. KS. Tubun No. 3 RT.002/01,Jakarta Pusat
+BUDI,Hotel Melati,Melati 2,60,Jl. Kebon Kosong XII No. 152,Jakarta Pusat
+FOKUS,Hotel Melati,Melati 3,48,Jl. Kebon Kacang I No. 9,Jakarta Pusat
+HOTEL GANI,Hotel Melati,Melati 3,40,Jl. KS. Tubun Raya no.9,Jakarta Pusat
+JATI,Hotel Melati,Melati 2,24,Jl. Jati Baru  No. 13,Jakarta Pusat
+PHARMIN,Hotel Melati,Melati 3,67,Jl. Jatibaru No. 35,Jakarta Pusat
+ALAMANDA,Hotel Melati,Melati 3,40,Jl. Aipda KS. Tubun No. 47,Jakarta Pusat
+KARSA UTAMA,Hotel Melati,Melati 3,45,Jl. Kebon Kacang IV No. 12,Jakarta Pusat
+IBIS KEMAYORAN,Hotel Bintang,Bintang 3,132,Jl. Bungur Besar Raya No. 79-81,Jakarta Pusat
+FAREL,Hotel Melati,Melati 3,54,Jl. Gunung Sahari II No.1,Jakarta Pusat
+HOTEL KEPU SELATAN,Hotel Melati,Melati 3,42,Jl. Kepu Selatan No. 17 RT. 003/03,Jakarta Pusat
+CEMPAKA  SARI,Hotel Melati,Melati 3,140,Jl. Letjen Suprapto No. 11,Jakarta Pusat
+GARUDA,Hotel Melati,Melati 2,25,Jl. Letjen Suprapto No. 88,Jakarta Pusat
+ILHAM DUA,Hotel Melati,Melati 3,56,Jl. Kemayoran Ketapang No. 90,Jakarta Pusat
+ISTANA BUNGUR,Hotel Melati,Melati 3,52,Jl. Bungur Besar  XII No. 2,Jakarta Pusat
+UTAN PANJANG KEMAYORAN,Hotel Melati,Melati 3,70,Jl. Kalibaru Timur VI No. 22 RT. 002/008,Jakarta Pusat
+KEBON KOSONG,Hotel Melati,Melati 3,80,Jl. Kebon Kosong Raya No. 8,Jakarta Pusat
+LUMIRE HOTEL,Hotel Bintang,Bintang 4,368,Jl. Senen  Raya 135,Jakarta Pusat
+THE ACACIA JAKARTA,Hotel Bintang,Bintang 4,206,Jl. Kramat Raya No. 73-81,Jakarta Pusat
+BINTANG GRIYAWISATA,Hotel Bintang,Bintang 3,93,Jl. Raden Saleh No. 16 RT. 01/010,Jakarta Pusat
+PARDEDE INTERNATIONAL,Hotel Bintang,Bintang 3,72,Jl. Raden Saleh I No. 9-11,Jakarta Pusat
+OASIS AMIR HOTEL,Hotel Bintang,Bintang 3,250,Jl. Senen Raya  Kav. 135-137,Jakarta Pusat
+HOTEL GRAND CITY,Hotel Bintang,Bintang 3,80,Jl. Pal Putih No. 197 A,Jakarta Pusat
+MEGAH INTERNASIONAL,Hotel Bintang,Bintang 1,20,Jl. Bungur Besar Raya No. 31,Jakarta Pusat
+BUNGUR SERASI,Hotel Melati,Melati 3,100,Jl. Kalibaru Timur VI No. 72,Jakarta Pusat
+HARAPAN JAYA,Hotel Melati,Melati 3,84,Jl. Kramat Pulo Dlm No. 1/B .77,Jakarta Pusat
+ILHAM,Hotel Melati,Melati 2,40,Jl. Kalibaru Timur IV/39,Jakarta Pusat
+PURI KWITANG,Hotel Melati,Melati 2,48,Jl. Kramat Kwitang 1 No. 11 A,Jakarta Pusat
+RADEN,Hotel Melati,Melati 2,25,Jl. Raden Saleh No. 24,Jakarta Pusat
+SEMARANG,Hotel Melati,Melati 3,45,Jl. Kramat Pulo No. 9 RT. 008/02,Jakarta Pusat
+TIGA NUR,Hotel Melati,Melati 2,70,Jl. Kramat Pulo Dalam II/F-15 No. 5,Jakarta Pusat
+MITRA OASIS RESIDENCE,Hunian Wisata,Hunian Wisata,50,Jl. Senen Raya No. 135-137,Jakarta Pusat
+GRAND HYATT JAKARTA,Hotel Bintang,Bintang 5,428,Jl. MH. Thamrin Kav. 28-30 RT.001/002,Jakarta Pusat
+MANDARIN ORIENTAL JAKARTA,Hotel Bintang,Bintang 5,272,Jl. MH. Thamrin RT. 001/02,Jakarta Pusat
+PULLMAN JAKARTA INDONESIA,Hotel Bintang,Bintang 4,400,Jl. MH. Thamrin No. 59,Jakarta Pusat
+HOTEL SARI PAN PACIFIC,Hotel Bintang,Bintang 4,418,Jl. MH. Thamrin No. 6,Jakarta Pusat
+IBIS TAMARIN,Hotel Bintang,Bintang 3,126,Jl. KH. Wahid Hasyim No. 77,Jakarta Pusat
+TREVA  INTERNATIONAL,Hotel Bintang,Bintang 3,174,Jl. Menteng Raya No. 33,Jakarta Pusat
+BETAWI SOFYAN,Hotel Bintang,Bintang 3,100,Jl. Cut Mutiah No. 9,Jakarta Pusat
+MARCOPOLO,Hotel Bintang,Bintang 3,191,Jl. Teuku Cik Ditiro No. 19,Jakarta Pusat
+ROTA INTERNATIONAL,Hotel Bintang,Bintang 2,54,Jl. KH. Wahid Hasyim No. 63,Jakarta Pusat
+MENTENG I,Hotel Bintang,Bintang 2,150,Jl. Rp. Soeroso No. 28,Jakarta Pusat
+MENTENG II,Hotel Bintang,Bintang 2,70,Jl. Cikini Raya 105,Jakarta Pusat
+MEGA,Hotel Bintang,Bintang 2,108,Jl. Proklamasi No. 40,Jakarta Pusat
+MEGA CIKINI,Hotel Bintang,Bintang,80,Jl. Cikini Raya No. 62-64,Jakarta Pusat
+IBIS BUDGET,Hotel Bintang,Bintang 1,150,Jl. Cikini Raya No. 75,Jakarta Pusat
+CIPTA,Hotel Melati,Melati 3,48,Jl. KH. Wahid Hasyim No. 53,Jakarta Pusat
+ORIA HOTEL,Hotel Melati,Melati 2,150,Jl. KH. Wahid Hasyim No. 85,Jakarta Pusat
+IBIS BUDGET,Hotel Bintang,Bintang 1,135,Jl. HOS Cokroaminoto No. 79,Jakarta Pusat
+MARGOT,Hotel Melati,Melati 2,34,Jl. Jaksa No.15/C,Jakarta Pusat
+HOTEL MENTENG,Hotel Melati,Melati 3,65,Jl. Gondangdia Enclek No. 28,Jakarta Pusat
+IBIS MANGGA DUA,Hotel Bintang,Bintang 3,202,Jl. Pangerang Jayakarta/Jl. Gatep RT.003/06,Jakarta Pusat
+TRAVELLERS HOTEL JAKARTA,Hotel Bintang,Bintang 4,94,Jl. Pangeran Jayakarta No. 70,Jakarta Pusat
+HOTEL MILLENNIUM SIRIH JAKARTA,Hotel Bintang,Bintang 4,401,Jl. H. Fachrudin No. 3,Jakarta Pusat
+HOTEL BALISTA,Hotel Melati,Melati,41,Jl. Pintu Air V No. 49,Jakarta Pusat
+EMPORIUM BOUTIQUE HOTEL,Hotel Bintang,Bintang 3,29,Jl. Pecenongan No. 29,Jakarta Pusat
+BLUE SKY PANDURATA BOUTIQUE HOTEL,Hotel Melati,Melati 3,87,Jl. Raden Saleh No. 12,Jakarta Pusat
+THE AKMANI SUITE HOTEL,Hotel Bintang,Bintang,100,Jl. KH. Wahid Hasyim No. 91,Jakarta Pusat
+SWISS-BEL HOTEL MANGGA BESAR,Hotel Bintang,Bintang,246,Jl. Kartini Raya No. 57 RT. 003/002,Jakarta Pusat
+SMART HOTEL,Hotel Melati,Melati 3,50,Jl. Tanjung Karang No. 2,Jakarta Pusat
+GRAND SAHID JAYA,Hotel Bintang,Bintang 5,600,Jl. Jend. Sudirman Kav. 86,Jakarta Pusat
+V-2,Hotel Bintang,Bintang,50,Komp. Duta Merlin Jl. Gajah Mada No. 3-5 Lt. III,Jakarta Pusat
+C' ONE HOTEL & PLAZA,Hotel Bintang,Bintang,52,Jl. Letjend Suprapto No. 62,Jakarta Pusat
+HOTEL 88,Hotel Melati,Melati,83,Jl. Mangga Besar Raya No. 120,Jakarta Pusat
+THE PLAZA RESIDENCES,Hunian Wisata,Hunian Wisata,259,Jl. Kebembem RT. 015/06,Jakarta Pusat
+INTERCONTINENTAL MID PLAZA JAKARTA,Hotel Bintang,Bintang,336,Jl. Kebembem RT. 015/06,Jakarta Pusat
+MERLYNN PARK HOTEL,Hotel Bintang,Bintang,301,Jl. KH. Hasyim Ashari No. 29-31,Jakarta Pusat
+BUNGA-BUNGA,Hotel Melati,Melati 3,100,Jl. Antara No. 13,Jakarta Pusat
+MAX ONE HOTELS.COM @ Sabang,Hotel Bintang,Bintang,87,Jl. KH. Agus Salim No. 24,Jakarta Pusat
+PURI INN,Hotel Melati,Melati 3,60,Jl. Raden Saleh 39 D,Jakarta Pusat
+MAXIM ASRI,Hotel Bintang,Bintang 2,39,Jl. Kwitang Raya No. 11,Jakarta Pusat
+AMARIS,Hotel Melati,Melati,72,Jl. Kramat Raya No. 35,Jakarta Pusat
+MORRISSEY,Hunian Wisata,Hunian Wisata,135,Jl. KH. Wahid Hasyim No. 70,Jakarta Pusat
+HOTEL FAVE,Hotel Melati,Melati,70,Jl. KH. Wahid Hasyim No. 135,Jakarta Pusat
+HOTEL FAVE,Hotel Bintang,Bintang 2,90,Jl. KH. Samanhudi No. 26 RT. 005/003,Jakarta Pusat
+BEST WESTERN HOTEL & RESIDENCE,Hotel Bintang,Bintang 4,168,Jl. Mangga Dua Abdad 111,Jakarta Pusat
+ALEANDER,Hotel Bintang,Bintang 2,65,Jl. Antara No. 35,Jakarta Pusat
+KERATON at THE PLAZA A LUXURY COLLECTION HOTEL JAKARTA,Hotel Bintang,Bintang,140,Jl. MH. Thamrin Kav. 15 RT. 001/002,Jakarta Pusat
+AMARIS,Hotel Melati,Melati 3,197,Gd. Thamrin City Lt. 6 & 6A Blok HT No. 01  Jl. Kebon Kacang Raya,Jakarta Pusat
+ANTARA,Hotel Melati,Melati 3,34,Jl. Antara No. 39 RT. 007/01,Jakarta Pusat
+GREN ALIA PRAPATAN,Hotel Bintang,Bintang,110,Jl. Prapatan No. 28,Jakarta Pusat
+BIG HOTEL,Hotel Melati,Meati 3,153,Jl. Kartini Raya 64 No. 2,Jakarta Pusat
+AMARIS,Hotel Melati,Melati 3,80,Jl. IR. H. Juanda No. 3,Jakarta Pusat
+CLAY HOTEL,Hotel Bintang,Bintang,81,Jl. Blora No. 20 RT. 002/06,Jakarta Pusat
+SAVVOYA MENTENG HOTEL,Hotel Bintang,Bintang 3,95,Menteng Square Tower C Jl. Matraman Raya No. 30E,Jakarta Pusat
+HOTEL N3,Hotel Bintang,Bintang 2,42,Jl. KH. Zainul Arifin No. 57 RT. 001/03,Jakarta Pusat
+TUNE HOTELS,Hotel Melati,Melati 3,168,Jl. Samanhudi No. 25,Jakarta Pusat
+NEO HOTEL,Hotel Melati,Melati 3,103,Jl. Cideng Timur No. 58,Jakarta Pusat
+KOSENDA,Hotel Bintang,Bintang,60,Jl. KH. Wahid Hasyim No. 127,Jakarta Pusat
+GRAND MERCURE,Hotel Bintang,Bintang 4,400,Jl. Hayam Wuruk No. 36-37,Jakarta Pusat
+PRIMA INDAH II,Hotel Bintang,Bintang,81,Jl. Mangga Besar Raya No. 144,Jakarta Pusat
+CALIFORNIA,Hotel Melati,Melati,50,Jl. Mangga Besar Raya No. 100 B-C RT. 002/010,Jakarta Pusat
+ALL SEASONS,Hotel Bintang,Bintang,150,Jl. KH. Zainul Arifin No. 5 & 7 RT.002/001,Jakarta Pusat
+BLUE SKY SMART HOTEL,Hotel Bintang,Bintang ,98,Jl. AIPDA KS. Tubun No. 19 RT. 005/006,Jakarta Pusat
+IBIS HOTEL SENEN JAKARTA,Hotel Bintang,Bintang 3,155,Jl. Kramat Raya No. 100 RT. 003/008,Jakarta Pusat
+ALL SEASONS THAMRIN HOTEL,Hotel Bintang,Bintang ,167,Jl. Talang Betutu No. 02 / Jl. Tanjung Karang No. 06-06 A,Jakarta Pusat
+SHALOM,Hotel Melati ,Melati 3,31,Jl. Kramat Pulo No. 18/A,Jakarta Pusat
+FAIRMONT JAKARTA,Hotel Bintang,Bintang 5,488,Jl. Asia Afrika No. 8,Jakarta Pusat
+THE HERMITAGE,Hunian Wisata,Hunian Wisata,90,Jl. Cilacap No. 1 RT. 011/005,Jakarta Pusat
+ARTOTEL JAKARTA - THAMRIN,Hotel Bintang,Bintang ,107,Jl. Sunda No. 3,Jakarta Pusat
+HOTEL MERCURE SABANG - JAKARTA,Hotel Bintang,Bintang ,166,Jl. KH. Agus Salim No. 11-13,Jakarta Pusat
+ROYAL CITY HOTEL,Hotel Melati,Melati 3,50,Jl. Petojo VI Y II No. 4 RT. 002/06,Jakarta Pusat
+KAWANUA AEROTEL,Hotel Bintang,Bintang 3,79,Jl. Cempaka Putih Timur XXIV No. 10,Jakarta Pusat
+WHIZ HOTEL,Hotel Bintang ,Bintang ,133,Jl. Cikini Raya No. 6,Jakarta Pusat
+HOTEL GRAND HYATT JAKARTA,Hotel Bintang ,Bintang 5,428,Jl. MH. Thamrin Kav. 28-30,Jakarta Pusat
+HOLIDAY INN EXPRESS,Hotel Bintang ,Bintang ,101,Jl. Tanjung Karang No. 1 RT. 010/020,Jakarta Pusat
+DOUBLE TREE BY HILTON,Hotel Bintang ,Bintang 5,253,Jl. Pegangsaan Timur No. 17,Jakarta Pusat
+BEST WESTERN GRAND PALACE KEMAYORAN HOTEL,Hotel Bintang ,Bintang ,156,Jl. Benyamin Sueb A.5,Jakarta Pusat
+EXITERTEL,Hotel Bintang ,Bintang ,16,Komp. Ruko Niaga Roxy Mas Blok D.V No. 8-12 Jl. KH. Hasyim Ashari 125,Jakarta Pusat
+LYNT HOTEL,Hotel Melati,Melati 3,60,Jl. Cideng Timur No. 35 RT.06/06,Jakarta Pusat
+HOTEL ZURI EXPRESS MANGGA DUA,Hotel Melati,Melati 3,124,Jl. Mangga Dua Dalam No. 55-56,Jakarta Pusat
+G7 HOTEL,Hotel Melati,Melati 3,40,Jl. KH. Samanhudi No. 47,Jakarta Pusat
+AMARIS,Hotel Melati,Melati,102,Jl. Pasar Baru Timur No. 20-21 RT. 004/03,Jakarta Pusat
+HOLIDAY INN EXPRESS JIEXPO,Hotel Bintang,Bintang,243,Jl. Kawasan PRJ Kemayoran,Jakarta Pusat
+OAKTREE HOTEL,Hotel Melati,Melati,84,Jl. Kebon Kacang XI No. 131 A,Jakarta Pusat
+GRAN MAHAKAM,Hotel Bintang,Bintang 5,158,Jl. Mahakam I No. 6 RT. 001/07,Jakarta Selatan
+THE DHARMAWANGSA,Hotel Bintang,Bintang 5,100,Jl. Brawidjaya Raya No. 39,Jakarta Selatan
+AMBHARA,Hotel Bintang,Bintang 4,222,Jl. Iskandarsyah II No. 1,Jakarta Selatan
+GOLDEN BOUTIQUE MELAWAI,Hotel Bintang,Bintang 3,73,Jl. Melawai VIII No. 6-8,Jakarta Selatan
+AMARIS,Hotel Melati,Melati 3,56,Jl. Panglima Polim Raya No. 4,Jakarta Selatan
+FORTUNE,Hotel Bintang,Bintang,50,Jl. Wijaya II Komp Graha Puri Blok F.21,Jakarta Selatan
+MELAWAI,Hotel Bintang,Bintang 2,180,Jl. Melawai Raya No. 18-20,Jakarta Selatan
+LOSARI BLOK. M,Hotel Melati,Melati 3,48,Jl. Panglima Polim Raya No. 3 E,Jakarta Selatan
+W I N,Hotel Melati,Melati,158,Jl. Panglima Polim No. 99,Jakarta Selatan
+PURI SAKURA DEWI,Hunian Wisata,Hunian Wisata,16,Jl. Wijaya XIII No. 45,Jakarta Selatan
+MENARA PONDOK INDAH,Hotel Melati,Melati 3,74,Jl. Metro Pondok Indah Sektor  II Blok. SA,Jakarta Selatan
+PONDOK INDAH GOLF APARTEMEN,Hunian Wisata,Hunian Wisata,410,Jl. Metro Pdk Indah Blok III B,Jakarta Selatan
+KRISTAL (LE-CRISTAL),Hotel Bintang,Bintang,328,Jl. Raya Tarogong Kav. 17,Jakarta Selatan
+ASRI,Hotel Melati,Melati 3,30,Jl. Ciputat Raya No. 1,Jakarta Selatan
+BUKIT INDAH,Motel,Motel,72,Jl. R.A. Kartini No. 9 Lbk. Bulus,Jakarta Selatan
+CILANDAK,Hunian Wisata,Hunian Wisata,48,Jl. Letjend. TB. Simatupang RT. 006/09,Jakarta Selatan
+SHINJU APARTEMEN,Hunian Wisata,Hunian Wisata,50,Jl. Cilandak I No. 27-31,Jakarta Selatan
+CROWNE PLAZA JAKARTA,Hotel Bintang,Bintang 5,373,Jl. Jend. Gatot Subroto Kav. 2&3,Jakarta Selatan
+JW. MARRIOTT HOTEL,Hotel Bintang,Bintang 5,333,"Jl. DR. Ide Anak Agung Gde Agung Kav. E 1,2 No. 1&2",Jakarta Selatan
+THE PARK LANE JAKARTA,Hotel Bintang,Bintang 5,287,Jl. Casablanca Kav. 18,Jakarta Selatan
+THE RITZ CARLTON PACIFIC PLACE,Hotel Bintang,Bintang 5,63,Jl. Jend. Sudirman Kav.52-53,Jakarta Selatan
+GRAND MELIA JAKARTA,Hotel Bintang,Bintang 5,404,Jl. HR. Rasuna Said Kav. X-O No. 1-4,Jakarta Selatan
+KARTIKA CHANDRA,Hotel Bintang,Bintang 4,276,Jl. Jend. Gatot Subroto Kav. 17-20,Jakarta Selatan
+THE RITZ CARLTON,Hotel Bintang,Bintang 5,333,Jl. DR. Ide Agung Gde Agung Kav. E No. 1,Jakarta Selatan
+MANHATTAN HOTEL,Hotel Bintang,Bintang 4,255,Jl. Prof. DR. Satrio - Casablanca Kuningan,Jakarta Selatan
+ASTON RASUNA RESIDENCE,Hunian Wisata,Hunian Wisata,223,Jl. HR. Rasuna Said,Jakarta Selatan
+OAKWOOD PREMIER COZMO JAKARTA,Hunian Wisata,Hunian Wisata,250,Jl. Dr. Ide Anak Agung Gde Agung Blok E4.2 No. 1,Jakarta Selatan
+PURI DENPASAR,Hunian Wisata,Hunian Wisata,60,Jl. Denpasar Selatan No. 1,Jakarta Selatan
+HARRIS,Hotel Bintang,Bintang,172,Jl. DR. Sahardjo No. 191,Jakarta Selatan
+BUMI KARSA,Hotel Bintang,Bintang 4,174,Jl. Jend. Gatot Subroto 71-73,Jakarta Selatan
+TEBET SOFYAN,Hotel Bintang,Bintang 1,101,"Jl. Prof. DR. Soepomo, SH No. 23",Jakarta Selatan
+TEBET RAYA,Hotel Melati,Melati 3,47,Jl. Tebet Raya No. 23,Jakarta Selatan
+CIPTA  II,Hotel Bintang,Bintang 3,70,Jl. Mampang Prapatan No. 1 A,Jakarta Selatan
+KEMANG ICON,Hunian Wisata,Hunian Wisata,12,Jl. Kemang Raya No. 1,Jakarta Selatan
+MAHARADJA,Hotel Bintang,Bintang,200,Jl. Kap. Pierre Tendean No. 1 RT. 005/001,Jakarta Selatan
+MAHARANI,Hotel Bintang,Bintang,138,Jl. Warung Buncit Raya No. 8,Jakarta Selatan
+ARION SWISS-BELHOTEL KEMANG,Hotel Bintang,Bintang,94,Jl. Kemang Raya No. 7,Jakarta Selatan
+PALM COURT,Hunian Wisata,Hunian Wisata,132,Jl. Jend. Gatot Subroto Kav. 26-27,Jakarta Selatan
+PONDOK WISATA INDAH,Hotel Melati,Melati 2,20,Jl. Kemang Selatan VIII/C.3,Jakarta Selatan
+OKTROI PLAZA  APARTEMEN,Hunian Wisata,Hunian Wisata,11,Jl. Kemang Raya Utara No. 1,Jakarta Selatan
+KAISAR,Hotel Bintang,Bintang,200,Jl. PLN. Duren Tiga No. 1,Jakarta Selatan
+ZULIA  CIPULIR,Hotel Melati,Melati 2,63,Jl. H.  Syatirih RT.002 Ulujami,Jakarta Selatan
+HOTEL AMOS COZY,Hotel Bintang,Bintang 4,99,Jl. Melawai Raya No. 84-85,Jakarta Selatan
+HOTEL ARYADUTA SEMANGGI,Hotel Bintang,Bintang 5,300,Jl. Garnisun dalam No. 8,Jakarta Selatan
+PRASADA MANSION,Hunian Wisata,Hunian Wisata,168,Jl. Komando Raya No. 6,Jakarta Selatan
+HOTEL GARDEN,Hotel Bintang,Bintang 3,50,Jl. Kemang Raya/Taman Kemang No. 1,Jakarta Selatan
+ADITYA MANSIONS,Hunian Wisata,Hunian Wisata,64,Jl. Adityawarman Raya I No. 38 A,Jakarta Selatan
+THE BELLEZZA SUITES,Hunian Wisata,Hunian Wisata,120,Jl. Letjen Soepeno Arteri Permata Hijau No. 34,Jakarta Selatan
+FRASER RESIDENCE SUDIRMAN JAKARTA,Hunian Wisata,Hunian Wisata,108,Jl. Setiabudi Raya No. 9,Jakarta Selatan
+SAHATI HOTEL,Hotel,Hotel,24,Jl. Taman Margasatwa No. 45,Jakarta Selatan
+M. HOTEL,Hotel,Hotel,52,Jl. Melawai VI No. 27 Blok M/3 Persil No. 32,Jakarta Selatan
+AMARIS,Hotel,Hotel,99,Jl. Kapten P. Tendean  No. 11 RT. 014/002,Jakarta Selatan
+THE RITZ CARLTON JAKARTA PACIFIC PLACE RESIDENCES,Hunian Wisata,Hunian Wisata,201,Jl. Jend. Sudirman Kav. 52-53,Jakarta Selatan
+MERCURE HOTEL,Hotel Bintang,Bintang 4,232,Jl. RA. Kartini/Jl. TB. Simatupang,Jakarta Selatan
+ROYAL KUNINGAN HOTEL,Hotel Bintang,Bintang,300,Jl. Kuningan Persada Kav. 2,Jakarta Selatan
+T-HOTEL,Hotel Bintang,Bintang,100,Jl. Ciputat Raya No. 11 RT.009/008,Jakarta Selatan
+NEO HOTEL TENDEAN,Hotel Melati,Melati 3,95,Jl. Woltermonginsidi No. 131,Jakarta Selatan
+V HOTEL,Hotel Melati,Melati,107,"Jl. Prof Dr. Soepomo, SH No. 100 RT.001/006",Jakarta Selatan
+FAVE HOTEL,Hotel Bintang,Bintang 1,140,Jl. Kemang I No. 6 RT. 011/011,Jakarta Selatan
+SWISS-BELL RESIDENCE,Hunian Wisata,Hunian Wisata,212,Jl. Kalibata Raya No. 22,Jakarta Selatan
+JS LUWANSA HOTEL,Hotel Bintang,Bintang 5,245,Gd. PP H. Usmar Ismail Jl. HR. Rasuna Said Kav. C-22,Jakarta Selatan
+THE FALATEHAN HOTEL,Hotel Bintang,Bintang,92,Jl. Falatehan Raya No. 26,Jakarta Selatan
+AMARIS,Hotel Melati,Melati,153,Jl. TB. Simatupang RT/RW 001/002,Jakarta Selatan
+HOTEL SOTIS,Hotel Melati,Melati 3,65,Jl. Falatehan I No. 21-22,Jakarta Selatan
+NEO MELAWAI,Hotel Bintang,Bintang ,88,Jl. Panglima Polim Raya No. 15,Jakarta Selatan
+FAVE HOTEL,Hotel Melati,Melati 3,101,"Jl. Melawai IV No. 3,5.7,9 & 11",Jakarta Selatan
+AMARIS,Hotel Melati,Melati 3,52,Jl. Prof. Dr. Satrio Blok C.4 Kav. 11,Jakarta Selatan
+ASTON AT KUNINGAN SUITES,Hunian Wisata,Hunian Wisata,92,Jl. Setiabudi Utara,Jakarta Selatan
+FAVE HOTEL GATOT SUBROTO,Hotel Bintang,Bintang ,150,Jl. Kartika Chandra (D/H Komp. Tangkas Baru A9) RT. 005/002,Jakarta Selatan
+POP ! HOTEL,Hotel Bintang,Bintang ,147,Jl. Prof. DR. Soepomo SH No. 29,Jakarta Selatan
+GRAND KEMANG HOTEL,Hotel Bintang,Bintang 3,201,Jl. Kemang Raya No. 2H RT. 014/01,Jakarta Selatan
+POP! HOTEL KEMANG,Hotel Bintang ,Bintang 1,110,Jl. Kemang Raya No. 3,Jakarta Selatan
+DIRADJA HOTEL,Hotel Bintang ,Bintang ,223,Jl. Kapten P. Tendean No. 38 Rt. 003/005,Jakarta Selatan
+AMARIS,Hotel Melati,Melati ,88,Jl. Prof. Dr. Soepomo SH No. 33 RT. 012/003,Jakarta Selatan
+AMARIS,Hotel Melati,Melati 3,91,Jl. Raya Pasar Minggu No. 15 A,Jakarta Selatan
+VERANDA,Hotel Bintang ,Bintang ,184,Jl. Kyai Maja No. 63,Jakarta Selatan
+FORTUNE,Hotel Bintang,Bintang,31,Plaza 3 Pondok Indah Blok F No.1-4 Jl.TB.Simatupang,Jakarta Selatan
+WIJAYA GANGNAM,Hotel Bintang,Bintang,31,Komp. Wijaya Graha Puri Blok F No. 20 Jl. Wijaya II,Jakarta Selatan
+RAJA RESIDENCE,Hotel Melati,Melati,32,Jl. Raya Kebayoran Lama No. 12 C,Jakarta Selatan
+RAFFLES,Hotel Bintang,Bintang,173,Ciputra World 1 Jl. Prof. Dr. Satrio Kav. 3-5,Jakarta Selatan
+THE BELLEVUE RADIO DALAM,Hunian Wisata,Hunian Wisata,156,Jl. Haji Nawi No. 1,Jakarta Selatan
+THE BELLEVUE RADIO DALAM,Hunian Wisata,Hunian Wisata,156,Jl. Haji Nawi No. 1,Jakarta Selatan
+ASTON PRIORITY SIMATUPANG,Hotel Bintang,Bintang,250,Jl. TB. Simatupang Kav. 9,Jakarta Selatan
+CIPTA HOTEL PANCORAN,Hotel Bintang,Bintang 3,109,Jl. Raya Pasar Minggu No. 19,Jakarta Selatan
+D' HOTEL,Hotel Bintang,Bintang,82,Jl. Sultan Agung No. 09 RT.004/001,Jakarta Selatan
+AMARIS,Hotel Melati,Melati 3,38,Jl. Panglima Polim Raya No. 101 Blok N/III RT. 006/09,Jakarta Selatan
+AMARIS LA CODEFIN KEMANG,Hotel Melati,Melati,108,Jl. Kemang Raya No. 8,Jakarta Selatan
+ASCOTT TOWER,Hunian Wisata,Hunian Wisata,185,Jl. Prof. Dr. Satrio Kav. 3-5,Jakarta Selatan
+D' JAVU,Hotel Melati,Melati,68,Jl. Antasari Raya No. 33,Jakarta Selatan
+POMELOTEL,Hotel Melati,Melati,145,Jl. Dukuh Patra Raya No. 28,Jakarta Selatan
+HOTEL SARE,Hotel Bintang,Bintang,80,Jl. Sultan Hasanuddin No. 46 RT. 003/01,Jakarta Selatan
+HOTEL 678,Hotel Melati,Melati 1,41,Jl. Kemang Selatan No. 125 A RT.001 / RW. 003,Jakarta Selatan
+GRAND MENTENG HOTEL,Hotel Bintang,Bintang 3,100,Jl. Matraman Raya No. 21,Jakarta Timur
+MEGA MATRA,Hotel Bintang,Bintang 2,180,Jl. Matraman Raya No. 115,Jakarta Timur
+NEW IDOLA,Hotel Melati,Melati 2,75,Jl. Pramuka Raya No. 26,Jakarta Timur
+PONDOK NIRWANA,Motel,Motel,42,Jl. MT. Haryono Kav. 26,Jakarta Timur
+RAKACIA HOTEL,Hotel Melati,Melati 2,38,Jl. Pemuda No. 10,Jakarta Timur
+C' ONE HOTEL PULOMAS,Motel,Motel,53,Jl. Jend. Achmad Yani RT. 003/09,Jakarta Timur
+PONDOK PULO MAS,Motel,Motel,42,Jl. Pulo Mas Utara No. I,Jakarta Timur
+PONDOK TIRTA SENTOSA,Motel,Motel,77,Jl. Raya Halim Perdanakusuma No. 1A,Jakarta Timur
+RENSA SOFYAN,Hotel Bintang,Bintang 1,30,Jl. Raya Duren Sawit No. 108,Jakarta Timur
+DELDHIA,Hotel Melati,Melati,40,Jl. Raden Inten No. 175 A,Jakarta Timur
+PARK HOTEL,Hotel Bintang,Bintang,162,Jl. D.I Panjaitan Kav. 5-7,Jakarta Timur
+TETANIUM SUITE WISATA APARTEMEN,Hotel,Hotel,235,"Jl. Raya Bogor KM. 26,7",Jakarta Timur
+NALENDRA,Hotel Melati,Melati,27,Jl. Cipinang Besar Selatan No. 70,Jakarta Timur
+SANTIKA TAMAN MINI INDONESIA INDAH,Hotel Bintang,Bintang 3,124,Jl. Pintu Masuk I TMII Indonesia Indah,Jakarta Timur
+678 JAYA SENTOSA,Hotel Melati,Melati 3,31,Jl. DI Panjaitan Lingkar Cawang No. 1B,Jakarta Timur
+BALAIRUNG,Hotel Bintang,Bintang,100,Jl. Matraman Raya No. 19 RT. 02/001,Jakarta Timur
+ANGKASA,Hotel Bintang,Bintang 1,35,Jl. Sultan Hamengkubuwono IX KM. 25 RT. 001/001,Jakarta Timur
+ZODIAK GEMINI MT. HARYONO,Hotel Melati,Melati ,45,Jl. Otista Raya No. 60 RT. 004/012,Jakarta Timur
+BEST WESTERN PREMIERE THE HIVE,Hotel Bintang,Bintang 4,191,Jl. DI. Panjaitan Kav. 3-4,Jakarta Timur
+FAVE HOTEL PGC,Hotel Bintang ,Bintang ,194,Jl. Mayjen Sutoyo No. 76 / Jl. Dewi Sartika RT. 001/013,Jakarta Timur
+IBIS,Hotel Bintang,Bintang,240,Cawang Commercial Estate Jl. Letjend MT. Haryono No. 9,Jakarta Timur
+CASABLANCA SUITES BY HORISON,Hunian Wisata,Hunian Wisata,154,Jl. Pahlawan Revolusi No. 2,Jakarta Timur
+MERCURE CONVENTION CENTER ANCOL JAKARTA,Hotel Bintang,Bintang 4,444,Jl. Pantai Indah Komp. TIJA,Jakarta Utara
+NOVOTEL MANGGA DUA SQUARE,Hotel Bintang,Bintang 4,362,Jl. Gunung Sahari Raya No. 1,Jakarta Utara
+ALEXIS HOTEL,Hotel Bintang,Bintang 3,73,Jl. RE. Martadinata No. 1,Jakarta Utara
+PONDOK PUTRI DUYUNG,Hotel Bintang,Bintang 3,130,Jl. Lodan Timur No. 7,Jakarta Utara
+BI. EXECUTIVE HOTEL,Hotel Melati,Melati 3,88,Jl. RE. Martadinata No. 2,Jakarta Utara
+PONDOK IMPIAN,Motel,Motel,50,Jl. RE. Martadinata No. 2,Jakarta Utara
+ASTON MARINA,Hunian Wisata,Hunian Wisata,358,Jl. Lodan Raya No. 2A,Jakarta Utara
+CONDOTEL GOLDEN SKY,Hotel Bintang,Bintang,75,Jl. Taman Pluit Kencana No. 48,Jakarta Utara
+GRAND ASIA,Hotel Bintang,Bintang 3,198,Jl. Bandengan Selatan No. 88,Jakarta Utara
+SANNO JAKARTA AIRPORT HOTEL,Hotel Bintang,Bintang 3,94,Jl. Pluit Raya Selatan No. 2,Jakarta Utara
+HOTEL ATT,Hotel Melati,Melati 3,60,"Jl. T. Bagus Angke, Kp. Gusti No. 1",Jakarta Utara
+PERMATA  INDAH,Hotel Melati,Melati 3,43,Jl. Taman Permata Indah II Kamp.Gusti,Jakarta Utara
+PERMATA INDAH.2,Hotel Melati,Melati 3,40,Taman Permata Indah 2 Jl. Kampung Gusti Blok L-1,Jakarta Utara
+TEMATIK HOTEL,Hotel Bintang,Bintang 2,73,Jl. Raya Jembatan Tiga No. 35,Jakarta Utara
+GRIYA PERMAI,Motel,Motel,62,Jl. Jembatan Tiga No. 8,Jakarta Utara
+PONDOK KENCANA INDAH,Motel,Motel,71,Jl. Terusan Bandengan Utara No. 93,Jakarta Utara
+MITRA BAHARI,Hunian Wisata,Hunian Wisata,38,Jl. Raya Pakin No. 1,Jakarta Utara
+SUMO,Hotel Bintang,Bintang,25,Jl. Boulevard Barat No. 1,Jakarta Utara
+COMFORT,Hotel Bintang,Bintang,50,Plaza Kelapa Gading Blok B-86-95 Jl. Raya Boulevard,Jakarta Utara
+DELTA DUTA FORTUNA,Hotel Bintang,Bintang,30,Jl. Boulevard Bukit Gdg Ry Blk D30-34,Jakarta Utara
+DARIZA JAYA,Hotel Melati,Melati 3,210,Jl. Perintis Kemerdekaan No. 42,Jakarta Utara
+SUMMERVILLE  APART,Hunian Wisata,Hunian Wisata,42,Jl. Kelapa Kopyor,Jakarta Utara
+DANAU SUNTER,Hotel Bintang,Bintang 4,240,Jl. Danau Permai Raya Blok C.1,Jakarta Utara
+PONDOK SUNTER INDAH,Motel,Motel,62,Jl. Gaya Motor 3/7 Sunter II,Jakarta Utara
+d' ARCICI HOTEL,Hunian Wisata,Hunian Wisata,160,Jl. Sunter Permai Raya No. 1 A,Jakarta Utara
+CEMPAKA JAYA COTTAGE,Hotel Melati,Melati 3,45,Jl. Raya Pelumpang No. 6,Jakarta Utara
+CIPONDO,Hotel Melati,Melati 3,60,Jl. Kramat Jaya No. 9-11,Jakarta Utara
+PULAU AYER,Hotel Bintang,Bintang 4,45,Pulau Air Besar,Jakarta Utara
+GADING INDAH,Hotel Melati,Melati,24,Jl. Pegangsaan Dua No. 10,Jakarta Utara
+HOTEL KING CROSS,Hotel Bintang,Bintang,27,Jl. Boulevard Bukit Gading Raya Kokan Blok E,Jakarta Utara
+GOLDEN HANDS HOTEL,Hotel Bintang,Bintang,40,Jl. Bandengan Selatan No. 43,Jakarta Utara
+MTR 2,Hotel Bintang,Bintang,24,Jl. Boulevard Bukit Gading Raya 18,Jakarta Utara
+HARRIS KELAPA GADING,Hotel Bintang,Bintang,319,Jl. Raya Gading Indah,Jakarta Utara
+TCL 1,Hotel Melati,Melati 2,20,Jl. Terusan Bandengan Utara 89.L,Jakarta Utara
+TCL 2,Hotel Melati,Melati 2,18,Jl. Terusan Bandengan Utara 91.C,Jakarta Utara
+M. STAR,Hotel Bintang,Bintang,42,Jl. Gunung Sahari Raya No. 2,Jakarta Utara
+HOTEL TCL,Hotel Melati,Melati 2,50,Jl. Teluk Gong No. 41,Jakarta Utara
+ARUNI,Hotel Melati,Melati 2,28,Jl. RE. Martadinata No. 10,Jakarta Utara
+AMARIS,Hotel Melati,Melati 3,250,Jl. Gunung Sahari Raya No. 1,Jakarta Utara
+COIN'S,Hotel Bintang,Bintang,80,Jl. Sunter Agung Utara Raya Blok A No. 5 B,Jakarta Utara
+GOLDEN BAY,Hotel,Hotel,68,Jl. Teluk Gong Raya No. 12,Jakarta Utara
+FOFIC SUITE HOTEL,Hotel Melati,Melati,40,Jl. Tongkol No. 23,Jakarta Utara
+HOTEL FAVE,Hotel Bintang,Bintang 2,120,Jl. Gading Indah Raya No. 8 Blok C/32,Jakarta Utara
+GRAND WHIZ,Hotel Bintang,Bintang 4,242,Jl. Bukit Gading Raya Kav. I,Jakarta Utara
+WHIZ,Hotel Bintang,Bintang 3,150,Ruko INKOPAL Jl. Boulevard Barat B/18,Jakarta Utara
+HARISTON,Hotel Bintang,Bintang 3,199,Jl. Terusan Bandengan Utara,Jakarta Utara
+THE BnB HOTEL,Hotel Melati,Melati,171,Gedung Graha Auto Center Jl. Boulevard Bukit Gading Raya,Jakarta Utara
+DISCOVERY HOTEL & CONVENTION ANCOL,Hotel Bintang,Bintang ,259,Jl. Lodan Timur Raya No. 07,Jakarta Utara
+HOLIDAY INN EXPRESS PLUIT,Hotel Bintang,Bintang ,301,Mall Emporium Lt. 10 Jl. Pluit Selatan Raya No. 01 Rt.022/008,Jakarta Utara
+ALL SEDAYU HOTEL,Hotel Bintang,Bintang ,162,Kelapa Gading Square Mall Of Indonesia lobby 5 Jl. Raya Boulevard Barat,Jakarta Utara
+HOTEL NEO,Hotel Bintang,Bintang ,154,Rukan Mangga Dua Square Blok A No. 10-12 & 15-23 Jl. Gunung Sahari Raya No. 1,Jakarta Utara
+POP ! HOTEL KELAPA GADING,Hotel Bintang,Bintang 1,266,Jl. Kelapa Gading Boulevard / Jl. Raya Mandiri Utara,Jakarta Utara
+HOTEL CABIN,Hotel Melati ,Melati 3,130,Jl. Yos Sudarso Kav. 87-88,Jakarta Utara
+HOLIDAY INN JAKARTA KEMAYORAN,Hotel Bintang ,Bintang ,257,Kompleks Rukan Puri Mutiara Blok D No. 107-108 Jl. Griya Utama,Jakarta Utara
+IBIS STYLE HOTEL MANGGA DUA SQUARE-JAKARTA,Hotel Bintang,Bintang,210,"Mangga Dua Square 2nd Floor, P2 Jl. Gunung Sahari Raya No. 1",Jakarta Utara
+SANTIKA KELAPA GADING,Hotel Bintang,Bintang,151,Jl. Raya Kelapa Nias Blok. HF 3 Sport Mall,Jakarta Utara
+OZONE HOTEL,Hotel Melati,Melati 3,98,Jl. Pantai Indah Utara III PIK,Jakarta Utara
+D'PRIMAHOTEL,Hotel Melati,Melati 3,54,"Jl. Gunung Sahari Raya Blok. A No. 1,2,3,26 & 27",Jakarta Utara
