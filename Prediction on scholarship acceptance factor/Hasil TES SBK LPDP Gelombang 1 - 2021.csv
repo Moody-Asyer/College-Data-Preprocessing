@@ -1,0 +1,432 @@
+Jenis Beasiswa,Tingkat Pendidikan yang Dituju,Negara Tujuan Kuliah,Bidang Studi yang dipilih saat mendaftar,Mendaftar dengan menggunakan LoA sesuai ketentuan LPDP,Apakah anda dinyatakan Lulus Seleksi Substansi Akademik Pada gelombang I Tahun 2021?,Jumlah Jawaban Benar pada Tes Penalaran Verbal,Jumlah Jawaban Benar pada Tes Kuantitatif,Jumlah Jawaban Benar pada Tes Pemecahan Masalah,[optional] Kampus/universitas tujuan saat ini (pilihan 1)
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,10,12,6,Universitas Indonesia
+Reguler,S2,Luar Negeri,ENE,"Ya, dengan Loa",Ya,17,22,8,UCL
+Targeted,S2,Luar Negeri,ELE,"Ya, dengan Loa",Ya,16,18,7,KTH Sweden
+Reguler,S2,Dalam negeri,LIN,Tidak,Tidak,15,12,4,UGM
+Afirmasi,S2,Luar Negeri,LIN,Tidak,Ya,16,9,7,University of Birmingham
+Targeted,S2,Luar Negeri,Dev,"Ya, dengan Loa",Ya,17,11,4,KU leuven
+Afirmasi,S2,Dalam negeri,HUM,Tidak,Ya,17,16,4,Universitas Gadjah Mada
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,14,19,4,
+Reguler,S2,Luar Negeri,AFR,"Ya, dengan Loa",Ya,13,16,7,Uni of Reading
+Targeted,S3,Luar Negeri,BUS,Tidak,Ya,16,18,8,University of Auckland
+Reguler,S2,Luar Negeri,WAT,"Ya, dengan Loa",Ya,20,15,7,IHE Delft
+Reguler,S2,Luar Negeri,MAR,"Ya, dengan Loa",Ya,14,14,7,University of Michigan
+Afirmasi,S2,Dalam negeri,SOS,Tidak,Ya,14,13,5,Universitas Indonesia
+Reguler,S2,Luar Negeri,HOS,"Ya, dengan Loa",Tidak,13,13,6,
+Targeted,S2,Luar Negeri,STA,"Ya, dengan Loa",Ya,12,17,5,
+Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,13,12,6,Universitas Airlangga
+Afirmasi,S2,Luar Negeri,EDU,Tidak,Ya,12,9,7,Durham University
+Targeted,S2,Luar Negeri,DEV,"Ya, dengan Loa",Ya,13,14,3,
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,22,7,UNY
+Reguler,S2,Luar Negeri,BUS,Tidak,Ya,15,21,6,
+Targeted,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,15,16,6,New York University
+Targeted,S3,Dalam negeri,TRP,Tidak,Ya,15,8,8,UGM
+Targeted,S2,Luar Negeri,LAW,Tidak,Ya,14,15,7,Penn State University
+Targeted,S2,Luar Negeri,SGY,"Ya, dengan Loa",Ya,13,14,8,York University
+Targeted,S3,Luar Negeri,ACF,Tidak,Ya,17,15,9,University of Birmingham
+Targeted,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,18,21,6,University of Glasgow
+Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Tidak,13,15,4,University of Edinburgh
+Reguler,S2,Dalam negeri,SOS,Tidak,Ya,16,21,8,UGM
+Afirmasi,S2,Dalam negeri,IPA,"Ya, dengan Loa",Ya,17,13,7,IPB
+Targeted,S2,Luar Negeri,PHA,Tidak,Ya,12,15,7,Titech
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,14,9,
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,15,17,9,UNY
+Afirmasi,S2,Dalam negeri,FOR,Tidak,Ya,15,20,4,Universitas Gadjah Mada
+Reguler,S2,Dalam negeri,BUS,Tidak,Ya,15,15,6,UPI
+Reguler,S2,Luar Negeri,ENE,Tidak,Ya,15,17,5,TU Delft
+Reguler,S2,Luar Negeri,COM,"Ya, dengan Loa",Tidak,13,15,4,Lund University
+Reguler,S2,Luar Negeri,ELE,Tidak,Ya,15,21,6,
+Reguler,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,14,19,8,University of Edinburgh
+Targeted,S2,Luar Negeri,DEF,"Ya, dengan Loa",Ya,10,16,7,Univ of Leeds
+Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,13,12,6,Universitas Airlangga
+Reguler,S2,Luar Negeri,PUB,Tidak,Ya,17,15,4,LSE
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,14,20,4,Universitas Gadjah Mada
+Targeted,S2,Dalam negeri,FOR,Tidak,Ya,18,21,8,ITS
+Reguler,S2,Dalam negeri,SOS,Tidak,Ya,19,14,7,UI
+Targeted,S2,Luar Negeri,DEV,"Ya, dengan Loa",Ya,18,13,8,University of Sussex
+Targeted,S2,Dalam negeri,SOs,Tidak,Ya,18,20,4,UGM
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,14,20,4,ITB
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,16,3,UGM
+Targeted,S2,Luar Negeri,ATM,Tidak,Ya,15,16,2,Pennsylvania State University
+Reguler,S2,Luar Negeri,PUB,Tidak,Ya,15,16,6,University of Melbourne
+Reguler,S2,Luar Negeri,EDU,Tidak,Ya,17,16,4,Columbia University
+Reguler,S3,Luar Negeri,ENV,Tidak,Ya,18,13,8,
+Reguler,S2,Dalam negeri,SOS,Tidak,Tidak,16,7,5,
+Reguler,S2,Luar Negeri,ENG,"Ya, dengan Loa",Tidak,15,12,4,University of Adelaide
+Afirmasi,S2,Dalam negeri,-,"Ya, dengan Loa",Ya,13,9,6,Universitas Pendidikan Indonesia
+Reguler,S2,Luar Negeri,CBS,"Ya, dengan Loa",Ya,12,18,9,unsw
+Reguler,S3,Luar Negeri,CHE,Tidak,Ya,16,20,9,University of Birmingham
+Afirmasi,S2,Dalam negeri,FOR,Tidak,Ya,12,16,5,UGM
+Reguler,S3,Dalam negeri,SOS,Tidak,Tidak,15,7,8,
+Reguler,S2,Luar Negeri,KES,"Ya, dengan Loa",Tidak,14,18,3,UCL
+Afirmasi,S3,Luar Negeri,EDU,Tidak,Ya,13,8,6,Georgetown University
+Reguler,S2,Dalam negeri,IPA,Tidak,Ya,13,19,4,ITB
+Targeted,S2,Dalam negeri,BUS,Tidak,Ya,12,12,6,Universitas Gadjah Mada
+Reguler,S2,Luar Negeri,DEV,Tidak,Ya,18,16,8,
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,7,5,Ugm
+Targeted,S2,Luar Negeri,ECT,Tidak,Ya,11,13,7,Sweden
+Afirmasi,S2,Luar Negeri,DEV,Tidak,Ya,13,11,6,Wageningen University and Research
+Reguler,S2,Dalam negeri,FOR,Tidak,Ya,14,20,5,UGM
+Reguler,S3,Luar Negeri,ELE,Tidak,Ya,16,20,9,University of Tokyo
+Reguler,S2,Luar Negeri,DEV,Tidak,Ya,16,18,12,MIT
+Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,16,14,4,UI
+Reguler,S2,Luar Negeri,AER,Tidak,Ya,15,20,4,ICL
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,15,8,UGM
+Reguler,S2,Luar Negeri,BUS,Tidak,Tidak,9,7,5,INSEAD
+Reguler,S2,Luar Negeri,ICT,Tidak,Ya,17,13,7,
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,13,4,UI
+Targeted,S2,Luar Negeri,PUB,Tidak,Ya,13,14,4,
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Tidak,14,17,4,Universitas Gadjah Mada
+Targeted,S2,Luar Negeri,ATM,"Ya, dengan Loa",Ya,13,15,9,University of Helsinki
+Afirmasi,S2,Dalam negeri,BUS,Tidak,Ya,11,12,6,Universitas Indonesia
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,14,18,5,Ugm
+Reguler,S2,Luar Negeri,ARC,Tidak,Ya,17,19,5,
+Afirmasi,S2,Luar Negeri,STA,Tidak,Ya,17,18,10,University of Twente
+Reguler,S2,Luar Negeri,BIO,"Ya, dengan Loa",Ya,15,16,7,Wageningen University and Research
+Reguler,S2,Luar Negeri,BUS,Tidak,Ya,14,23,5,Johns Hopkins University
+Reguler,S2,Luar Negeri,POL,Tidak,Ya,12,17,8,KCL
+Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Ya,17,16,7,UCL
+Afirmasi,S2,Dalam negeri,Bus,Tidak,Tidak,7,7,2,UI
+Afirmasi,S2,Dalam negeri,IPA,"Ya, dengan Loa",Ya,14,13,5,ITB
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,14,14,9,UGM
+Reguler,S2,Dalam negeri,M,"Ya, dengan Loa",Tidak,13,10,7,UNESA
+Reguler,S2,Dalam negeri,SOS,Tidak,Ya,18,10,8,Universitas Gadjah Mada
+Targeted,S2,Dalam negeri,SOS,Tidak,Ya,16,17,6,
+Reguler,S2,Luar Negeri,Afr,"Ya, dengan Loa",Ya,17,14,8,Wur
+Reguler,S2,Luar Negeri,ENE,"Ya, dengan Loa",Ya,18,15,6,University of Glasgow
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,15,15,6,UGM
+Targeted,S2,Luar Negeri,SOC,Tidak,Ya,18,19,7,Harvard University
+Afirmasi,S2,Luar Negeri,PUB,Tidak,Ya,15,13,8,University of Melbourne
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,14,16,6,Universitas Indonesia
+Reguler,S3,Luar Negeri,MED,Tidak,Ya,15,21,7,UCL
+Reguler,S2,Luar Negeri,CIV,Tidak,Ya,16,15,5,NUS
+Targeted,S2,Luar Negeri,BUS,Tidak,Ya,14,17,7,University of Southern California
+Reguler,S2,Luar Negeri,LAW,Tidak,Tidak,13,11,6,UC Berkeley
+Reguler,S2,Luar Negeri,EDU,Tidak,Ya,14,18,6,University of Manchester
+Afirmasi,S2,Dalam negeri,SOS,"Ya, dengan Loa",Ya,13,6,7,Universitas Gadjah Mada
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,16,15,9,UI
+Reguler,S3,Luar Negeri,PHA,Tidak,Ya,14,18,6,UCL
+Reguler,S2,Luar Negeri,PUB,Tidak,Ya,18,11,7,U of Alberta
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,19,20,7,Universitas Indonesia
+Afirmasi,S2,Luar Negeri,BUS,Tidak,Ya,11,14,3,Arizona State University
+Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,13,16,3,ITB
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,13,13,5,UGM
+Reguler,S2,Luar Negeri,PUB,Tidak,Tidak,17,12,5,University of Michigan
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,19,18,4,UGM
+Reguler,S2,Dalam negeri,SOS,"Ya, dengan Loa",Ya,12,13,10,Universitas Gadjah Mada
+Reguler,S2,Luar Negeri,ARC,"Ya, dengan Loa",Tidak,16,11,1,University of Melbourne
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,15,12,6,UI
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,17,21,7,UI
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,19,8,2,U
+Reguler,S2,Luar Negeri,PSY,"Ya, dengan Loa",Ya,13,18,8,
+Reguler,S3,Luar Negeri,MET,Tidak,Tidak,14,10,4,Monash university australia
+Reguler,S2,Luar Negeri,ICT,Tidak,Ya,15,17,5,
+Reguler,S2,Dalam negeri,M,"Ya, dengan Loa",Tidak,13,10,7,UNESA
+Targeted,S3,Dalam negeri,-,"Ya, dengan Loa",Ya,10,12,8,Universitas Airlangga
+Afirmasi,S2,Luar Negeri,CIV,Tidak,Ya,14,12,3,Purdue University
+Afirmasi,S2,Dalam negeri,IPA,Tidak,Ya,9,19,8,ITB
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,10,12,5,UPI
+Afirmasi,S2,Dalam negeri,Bus,Tidak,Ya,15,10,5,Ugm
+Targeted,S2,Luar Negeri,BUS,"Ya, dengan Loa",Ya,14,20,6,University of Michigan
+Targeted,S3,Dalam negeri,TRP,Tidak,Ya,14,13,6,UGM
+Reguler,S2,Luar Negeri,DEV,"Ya, dengan Loa",Ya,16,15,7,ISS
+Targeted,S3,Luar Negeri,ICT,"Ya, dengan Loa",Ya,12,15,4,University of Groningen
+Reguler,S3,Dalam negeri,FOR,Tidak,Ya,16,17,6,UGM
+Reguler,S2,Luar Negeri,ECO,Tidak,Tidak,12,16,7,Columbia University
+Reguler,S2,Luar Negeri,EDU,Tidak,Tidak,13,10,10,UCL
+Afirmasi,S2,Dalam negeri,Bio,Tidak,Ya,15,17,6,Unsoed
+Reguler,S3,Luar Negeri,BIO,"Ya, dengan Loa",Ya,17,16,5,University of Bristol
+Targeted,S2,Dalam negeri,Bus,Tidak,Ya,12,18,7,
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,15,6,UGM
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,11,11,8,ITB
+Afirmasi,S2,Dalam negeri,TEK,Tidak,Ya,12,18,4,UGM
+Reguler,S2,Luar Negeri,FOO,"Ya, dengan Loa",Ya,18,19,10,
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,16,24,10,ITB
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,18,13,5,UNESA
+Targeted,S3,Luar Negeri,ENV,"Ya, dengan Loa",Ya,16,17,8,WUR
+Reguler,S2,Dalam negeri,Bus,Tidak,Tidak,12,9,7,
+Reguler,S2,Luar Negeri,BUS,Tidak,Ya,20,23,10,Stanford University
+Reguler,S3,Dalam negeri,TRP,Tidak,Ya,14,12,9,ITB
+Reguler,S2,Luar Negeri,Tra,Tidak,Ya,18,20,4,Kth
+Reguler,S3,Luar Negeri,ELE,"Ya, dengan Loa",Tidak,11,17,5,NTU Singapore
+Reguler,S2,Luar Negeri,ICT,Tidak,Ya,15,22,6,
+Reguler,S2,Luar Negeri,BUS,Tidak,Ya,17,19,6,
+Reguler,S3,Dalam negeri,FOR,"Ya, dengan Loa",Ya,14,22,6,ITB
+Reguler,S2,Luar Negeri,ARC,"Ya, dengan Loa",Ya,16,16,6,TU Delft
+Reguler,S2,Luar Negeri,ART,"Ya, dengan Loa",Ya,12,14,9,UAL
+Reguler,S2,Luar Negeri,HOS,"Ya, dengan Loa",Ya,17,17,9,Bournemouth University
+Reguler,S2,Luar Negeri,ENT,Tidak,Tidak,16,11,6,University of Edinburgh
+Afirmasi,S2,Dalam negeri,FOR,Tidak,Ya,16,22,8,
+Reguler,S2,Dalam negeri,IPA,Tidak,Ya,16,17,6,UNAIR
+Reguler,S2,Luar Negeri,ICT,Tidak,Ya,16,19,6,ANU
+Reguler,S2,Luar Negeri,AFR,"Ya, dengan Loa",Ya,14,15,6,Wageningen University and Research
+Reguler,S2,Luar Negeri,Bus,Tidak,Ya,18,18,7,Nus
+Reguler,S2,Luar Negeri,Civ,Tidak,Ya,16,22,6,Uni of Michigan
+Reguler,S2,Luar Negeri,TRA,"Ya, dengan Loa",Ya,14,19,3,University of Leeds
+Reguler,S2,Luar Negeri,PUB,"Ya, dengan Loa",Ya,16,20,7,
+Targeted,S3,Luar Negeri,ACF,Tidak,Ya,16,15,8,University of Manchester
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,14,19,5,UNAIR
+Reguler,S2,Luar Negeri,GEO,"Ya, dengan Loa",Ya,18,20,8,University of Manchester
+Reguler,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,18,22,2,
+Reguler,S2,Luar Negeri,ENT,Tidak,Ya,15,21,7,LSE
+Reguler,S2,Luar Negeri,LNY,"Ya, dengan Loa",Tidak,17,11,4,University of Groningen
+Reguler,S2,Luar Negeri,TRA,"Ya, dengan Loa",Ya,15,18,3,TU München
+Reguler,S2,Luar Negeri,COM,Tidak,Ya,15,17,8,"Goldsmiths, University of London"
+Targeted,S3,Luar Negeri,PUB,Tidak,Ya,12,16,6,ANU
+Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,19,15,5,
+Targeted,S3,Dalam negeri,TRP,Tidak,Ya,14,17,4,IPB
+Reguler,S2,Luar Negeri,CIV,"Ya, dengan Loa",Ya,17,17,6,UCL
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,16,15,6,ITB
+Reguler,S2,Luar Negeri,ACF,Tidak,Ya,14,16,9,Erasmus University Rotterdam
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,13,17,5,Unpad
+Afirmasi,S2,Dalam negeri,BK,Tidak,Ya,15,8,6,UNY
+Reguler,S2,Dalam negeri,FOR,"Ya, dengan Loa",Ya,13,15,8,Institut Pertanian Bogor
+Reguler,S2,Luar Negeri,EDU,Tidak,Ya,13,16,6,King's College London
+Afirmasi,S2,Dalam negeri,Bio,Tidak,Ya,8,11,4,Universitas Tadulako
+Reguler,S2,Luar Negeri,TRA,Tidak,Ya,16,22,7,TU DELFT
+Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,15,8,8,Universitas Malang
+Afirmasi,S2,Dalam negeri,PSY,Tidak,Ya,11,11,5,Universitas Indonesia
+Afirmasi,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,12,10,4,UNNES
+Reguler,S3,Luar Negeri,FOO,"Ya, dengan Loa",Ya,17,22,9,UC Davis
+Reguler,S2,Luar Negeri,ETC,Tidak,Ya,14,14,7,The Australian National University
+Afirmasi,S2,Luar Negeri,ETC,Tidak,Ya,17,18,6,University of Twente
+Reguler,S2,Luar Negeri,LIN,Tidak,Ya,17,14,6,
+Reguler,S2,Luar Negeri,COM,Tidak,Tidak,13,7,12,LSE
+Targeted,S2,Luar Negeri,MED,Tidak,Ya,18,17,8,Uppsala University
+Reguler,S2,Luar Negeri,GEO,Tidak,Ya,14,18,4,
+Afirmasi,S2,Dalam negeri,IPA,"Ya, dengan Loa",Ya,18,22,5,ITB
+Reguler,S2,Luar Negeri,LIN,"Ya, dengan Loa",Ya,17,17,7,University of Warwick
+Targeted,S2,Luar Negeri,ENT,Tidak,Ya,15,18,6,
+Reguler,S2,Luar Negeri,LAW,"Ya, dengan Loa",Ya,15,18,7,Leiden University
+Reguler,S2,Luar Negeri,DEV,"Ya, dengan Loa",Tidak,14,10,6,Erasmus University Rotterdam
+Reguler,S2,Dalam negeri,FOR,"Ya, dengan Loa",Ya,16,14,9,ITB
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,19,6,UGM
+Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,12,17,6,UGM
+Reguler,S2,Luar Negeri,ARC,"Ya, dengan Loa",Tidak,13,14,6,The University of Sheffield
+Reguler,S3,Luar Negeri,PHY,Tidak,Ya,15,15,5,University of Cambridge
+Reguler,S2,Luar Negeri,DEV,"Ya, dengan Loa",Ya,18,16,6,
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,18,15,10,Universitas gadjah mada
+Reguler,S2,Dalam negeri,FOR,Tidak,Ya,18,12,7,IPB
+Reguler,S3,Dalam negeri,TRP,"Ya, dengan Loa",Tidak,14,11,7,
+Targeted,S3,Luar Negeri,INS,"Ya, dengan Loa",Ya,14,17,7,Ghent University
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,13,12,7,Universitas Gadjah Mada
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,18,15,7,Itb
+Reguler,S2,Luar Negeri,BUS,Tidak,Tidak,14,7,6,Columbia University
+Afirmasi,S2,Luar Negeri,LIN,Tidak,Ya,13,9,5,
+Reguler,S2,Luar Negeri,ENV,"Ya, dengan Loa",Ya,16,13,6,Imperial College London
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,19,15,4,ITB
+Targeted,S2,Luar Negeri,ACC,Tidak,Ya,14,19,6,MSU
+Reguler,S2,Luar Negeri,COM,Tidak,Ya,15,15,6,ANU
+Targeted,S2,Luar Negeri,COM,"Ya, dengan Loa",Ya,15,16,6,KCL - Strategic Communication
+Targeted,S2,Luar Negeri,DEV,Tidak,Ya,16,9,8,The University of Manchester
+Reguler,S2,Dalam negeri,IPA,"Ya, dengan Loa",Tidak,12,10,4,
+Targeted,S2,Luar Negeri,CBS,Tidak,Ya,13,6,8,Carnegie Mellon University
+Targeted,S2,Luar Negeri,OCE,Tidak,Ya,15,21,5,Unsw
+Targeted,S2,Luar Negeri,ENT,Tidak,Tidak,13,12,6,MIT
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Tidak,12,8,7,ITB
+Reguler,S2,Luar Negeri,bus,"Ya, dengan Loa",Ya,16,19,6,
+Reguler,S2,Luar Negeri,PUB,Tidak,Ya,19,20,5,University of Geneva
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,12,11,7,UGM
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,16,17,8,ITB
+Reguler,S2,Luar Negeri,PUB,"Ya, dengan Loa",Ya,18,16,8,London School of Hygiene & Tropical Medicine
+Reguler,S2,Luar Negeri,BUS,Tidak,Ya,20,15,5,Yale
+Targeted,S2,Dalam negeri,IPA,Tidak,Ya,12,18,5,ITB
+Reguler,S2,Luar Negeri,MAT,Tidak,Tidak,14,12,6,TU Delft
+Afirmasi,S2,Luar Negeri,EDU,Tidak,Ya,14,13,4,University of Bristol
+Afirmasi,S2,Dalam negeri,Ipa,Tidak,Ya,16,6,6,
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,14,14,10,UGM
+Reguler,S2,Luar Negeri,HUM,"Ya, dengan Loa",Ya,17,13,5,
+Afirmasi,S2,Dalam negeri,IPA,Tidak,Ya,16,8,7,UGM
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,17,20,7,UGM
+Reguler,S2,Luar Negeri,LAW,"Ya, dengan Loa",Tidak,11,7,6,
+Reguler,S2,Luar Negeri,ARC,Tidak,Ya,17,17,3,Wageningen University & Research
+Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,11,13,3,
+Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Ya,16,15,5,Univ of Melbourne
+Afirmasi,S2,Dalam negeri,SOS,Tidak,Ya,15,8,4,UIN Jakarta
+Afirmasi,S2,Dalam negeri,IPA,Tidak,Ya,16,15,6,IPB
+Reguler,S2,Luar Negeri,EDU,Tidak,Tidak,14,12,4,University of Sydney
+Reguler,S2,Luar Negeri,AFR,"Ya, dengan Loa",Ya,16,14,7,WUR
+Reguler,S2,Luar Negeri,PUB,Tidak,Ya,14,19,6,University of Melbourne
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,15,23,5,UI
+Targeted,S3,Dalam negeri,For,Tidak,Ya,15,22,5,ITS
+Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,16,17,6,ITB
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,16,17,6,universitas indonesia
+Afirmasi,S2,Luar Negeri,STA,Tidak,Ya,21,24,10,
+Targeted,S2,Luar Negeri,ACF,Tidak,Ya,14,16,8,
+Reguler,S2,Luar Negeri,ENE,Tidak,Ya,17,14,6,Uni of Auckland
+Targeted,S2,Luar Negeri,Dev,Tidak,Ya,21,23,9,
+Afirmasi,S2,Luar Negeri,PHY,Tidak,Ya,12,8,6,
+Reguler,S3,Dalam negeri,HUM,"Ya, dengan Loa",Tidak,16,13,5,Universitas Padjadjaran
+Reguler,S3,Dalam negeri,BuS,"Ya, dengan Loa",Ya,16,14,6,Ui
+Reguler,S3,Luar Negeri,PUB,Tidak,Ya,18,18,8,Monahs University
+Reguler,S2,Luar Negeri,BUS,Tidak,Ya,18,15,7,Cornell University
+Reguler,S2,Luar Negeri,EAM,"Ya, dengan Loa",Tidak,10,13,8,University of Manchester
+Reguler,S2,Dalam negeri,BUS,Tidak,Tidak,16,9,8,UI
+Reguler,S2,Luar Negeri,PUB,Tidak,Ya,19,14,5,University of Wisconsin - Madison
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,7,5,UI
+Targeted,S2,Luar Negeri,PUB,Tidak,Ya,18,17,7,UCL
+Afirmasi,S2,Luar Negeri,CHE,Tidak,Ya,17,12,6,Cornell University
+Reguler,S2,Luar Negeri,ARC,"Ya, dengan Loa",Ya,18,15,10,Politecnico di Milano
+Reguler,S2,Dalam negeri,IPA,"Ya, dengan Loa",Ya,17,15,8,UI
+Reguler,S2,Luar Negeri,PSY,Tidak,Ya,15,15,7,University of Pennsylvania
+Reguler,S2,Luar Negeri,BUS,Tidak,Ya,16,17,7,ICL
+Targeted,S3,Luar Negeri,NUR,Tidak,Ya,13,15,8,
+Reguler,S2,Luar Negeri,MED,"Ya, dengan Loa",Ya,16,14,7,King’s College London
+Reguler,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,12,19,5,UCL
+Targeted,S3,Luar Negeri,ACF,Tidak,Ya,11,11,4,
+Reguler,S2,Luar Negeri,ENE,"Ya, dengan Loa",Ya,13,18,5,TU Delft
+Targeted,S2,Luar Negeri,ENT,Tidak,Ya,15,19,5,USA
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,15,23,5,
+Afirmasi,S2,Luar Negeri,PUB,Tidak,Ya,12,7,2,KCL
+Reguler,S2,Dalam negeri,FOR,"Ya, dengan Loa",Tidak,13,14,5,Universitas Indonesia
+Targeted,S2,Luar Negeri,SOC,Tidak,Ya,16,14,5,UK
+Reguler,S2,Dalam negeri,PSY,Tidak,Ya,18,15,7,UI
+Targeted,S2,Luar Negeri,LAW,Tidak,Ya,10,15,4,King's College London
+Reguler,S2,Luar Negeri,ARC,Tidak,Ya,17,17,7,
+Reguler,S2,Luar Negeri,ARC,Tidak,Ya,18,19,5,Columbia University
+Targeted,S2,Luar Negeri,PHA,Tidak,Ya,12,11,9,University of Birmingham
+Reguler,S2,Luar Negeri,GEO,Tidak,Ya,17,19,8,
+Targeted,S3,Dalam negeri,TRP,"Ya, dengan Loa",Ya,19,20,6,ITB
+Reguler,S2,Dalam negeri,SOS,"Ya, dengan Loa",Ya,16,16,8,
+Targeted,S2,Luar Negeri,PUB,Tidak,Ya,18,17,7,UCL
+Reguler,S2,Luar Negeri,PUB,Tidak,Tidak,17,9,6,JHU
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,17,22,6,UM
+Afirmasi,S2,Dalam negeri,PTK,Tidak,Ya,12,12,4,UPI BANDUNG
+Targeted,S2,Luar Negeri,SOC,Tidak,Ya,15,18,5,university of birmingham
+Targeted,S2,Luar Negeri,SOC,Tidak,Ya,15,18,5,University of Birmingham
+Afirmasi,S2,Luar Negeri,ART,"Ya, dengan Loa",Ya,10,11,4,Monash
+Afirmasi,S2,Dalam negeri,FOR,Tidak,Ya,18,22,6,ITB
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,18,10,4,
+Afirmasi,S2,Luar Negeri,EDU,Tidak,Ya,16,21,5,
+Targeted,S2,Luar Negeri,CHE,Tidak,Ya,16,16,5,Universitas Malaya
+Reguler,S3,Luar Negeri,BUS,Tidak,Ya,19,20,3,NUS
+Targeted,S3,Luar Negeri,ANT,Tidak,Ya,16,16,7,
+Targeted,S3,Luar Negeri,ETC,Tidak,Ya,18,20,10,
+Targeted,S2,Luar Negeri,LAW,"Ya, dengan Loa",Ya,13,10,7,
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,19,5,Univ. Brawijaya
+Reguler,S2,Luar Negeri,ENV,"Ya, dengan Loa",Tidak,15,14,5,WUR
+Reguler,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,19,15,9,Leiden University
+Targeted,S3,Luar Negeri,ECO,Tidak,Ya,16,17,8,ANU
+Reguler,S2,Luar Negeri,ENE,Tidak,Ya,18,19,6,ETH Zurich
+Reguler,S2,Luar Negeri,BUS,Tidak,Ya,16,15,7,University of Amsterdam
+Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Ya,15,18,7,
+Afirmasi,S3,Luar Negeri,CE,Tidak,Ya,16,13,4,RWTH Aachen
+Reguler,S2,Luar Negeri,COM,"Ya, dengan Loa",Tidak,14,15,6,UNSW
+Targeted,S2,Luar Negeri,SOC,"Ya, dengan Loa",Ya,10,13,7,UNSW
+Reguler,S2,Luar Negeri,PUB,Tidak,Ya,18,18,7,UCL
+Afirmasi,S2,Dalam negeri,LAW,Tidak,Ya,14,17,6,Universitas Indonesia
+Reguler,S2,Luar Negeri,BIO,"Ya, dengan Loa",Tidak,12,7,4,Radboud University
+Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,11,7,5,UGM
+Reguler,S3,Dalam negeri,Trp,"Ya, dengan Loa",Tidak,16,13,4,
+Afirmasi,S2,Luar Negeri,FOO,Tidak,Ya,19,16,7,Wageningen
+Reguler,S2,Luar Negeri,ACF,Tidak,Tidak,17,12,5,NUS
+Reguler,S2,Dalam negeri,TEL,Tidak,Ya,15,18,4,
+Reguler,S2,Luar Negeri,ENE,Tidak,Ya,14,20,4,UniMelb
+Reguler,S2,Luar Negeri,FOO,Tidak,Ya,18,17,10,Wageningen University
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,15,16,5,UNIVERSITAS INDONESIA
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,10,9,4,UGM
+Reguler,S2,Luar Negeri,ICT,Tidak,Ya,15,20,5,Yonsei University
+Afirmasi,S2,Luar Negeri,MED,Tidak,Ya,8,6,6,British Columbia University Canada
+Targeted,S3,Luar Negeri,ECO,"Ya, dengan Loa",Ya,17,13,6,
+Reguler,S2,Luar Negeri,ENV,"Ya, dengan Loa",Ya,17,14,6,Wageningen University and Research
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,16,12,8,
+Afirmasi,S2,Luar Negeri,STA,Tidak,Ya,20,17,5,Leiden University Belanda
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,15,23,6,UGM
+Reguler,S2,Luar Negeri,EDu,Tidak,Ya,17,14,6,University of Texas
+Reguler,S3,Dalam negeri,Hum,Tidak,Tidak,14,7,3,
+Targeted,S2,Luar Negeri,LIN,"Ya, dengan Loa",Ya,18,12,8,UCL
+Afirmasi,S2,Dalam negeri,0,"Ya, dengan Loa",Ya,6,15,3,UM
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Tidak,8,12,4,Universitas Negeri Malang
+Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,14,14,5,Universitas Muhammadiyah Surakarta
+Afirmasi,S2,Dalam negeri,IPA,Tidak,Ya,16,8,7,UGM
+Reguler,S2,Luar Negeri,MED,"Ya, dengan Loa",Ya,19,20,6,UCL
+Reguler,S2,Luar Negeri,EDU,"Ya, dengan Loa",Tidak,14,9,6,University of Glasgow
+Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,13,11,3,Univ Pendidikan Indonesia/ UPI
+Targeted,S3,Luar Negeri,ENV,Tidak,Ya,14,12,5,
+Targeted,S2,Luar Negeri,ENT,Tidak,Ya,13,8,3,Bath School of Management: MBA
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,22,24,12,UGM
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,13,21,6,Universitas Indonesia
+Targeted,S2,Dalam negeri,IPA,Tidak,Ya,14,15,5,
+Reguler,S2,Dalam negeri,FOR,"Ya, dengan Loa",Tidak,16,13,5,Universitas Indonesia
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,15,16,6,UGM
+Targeted,S3,Luar Negeri,COM,Tidak,Ya,18,15,8,NTU
+Reguler,S2,Dalam negeri,EDU,Tidak,Ya,12,16,8,Universitas Pendidikan Indonesia
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,12,16,7,Sriwijaya
+Reguler,S2,Luar Negeri,COM,Tidak,Ya,17,15,7,New York University
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,17,23,6,ITS
+Reguler,S3,Luar Negeri,BUS,Tidak,Tidak,15,10,8,Sheffield
+Targeted,S2,Luar Negeri,DEV,"Ya, dengan Loa",Ya,13,10,9,
+Targeted,S2,Luar Negeri,SGY,"Ya, dengan Loa",Ya,12,14,6,University of york
+Reguler,S2,Luar Negeri,ENT,Tidak,Ya,16,18,5,
+Targeted,S2,Dalam negeri,PSY,Tidak,Ya,13,15,7,UGM
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,12,7,6,UM
+Reguler,S2,Luar Negeri,ACF,"Ya, dengan Loa",Ya,19,16,6,Warwick
+Reguler,S3,Dalam negeri,HUM,Tidak,Tidak,13,9,7,UPI
+Reguler,S2,Dalam negeri,SOS,Tidak,Ya,15,18,5,UGM
+Reguler,S2,Luar Negeri,BUS,Tidak,Tidak,13,16,4,UCL
+Reguler,S2,Dalam negeri,BUS,Tidak,Tidak,11,12,6,Institut Pertanian Bogor
+Afirmasi,S2,Dalam negeri,PTK,Tidak,Ya,15,14,5,UNY
+Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,17,13,7,
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,15,15,5,UGM
+Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Tidak,15,8,6,University of Warwick
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,18,14,8,UI
+Reguler,S2,Dalam negeri,SOS,Tidak,Ya,17,20,5,
+Reguler,S2,Luar Negeri,ARC,Tidak,Ya,13,15,6,UCL
+Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,14,16,5,UI
+Reguler,S2,Luar Negeri,PHA,Tidak,Ya,16,19,6,Osaka university
+Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,18,22,4,UGM
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,15,10,7,ugm
+Targeted,S3,Luar Negeri,PHY,Tidak,Ya,13,16,6,
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,14,15,8,UI
+Reguler,S3,Luar Negeri,MED,"Ya, dengan Loa",Ya,17,17,4,University of Groningen
+Afirmasi,S2,Luar Negeri,PUB,Tidak,Ya,15,13,8,University of Melbourne
+Reguler,S2,Luar Negeri,LAW,"Ya, dengan Loa",Ya,14,17,8,
+Reguler,S2,Luar Negeri,ARC,"Ya, dengan Loa",Ya,15,20,4,politecnico di milano
+Reguler,S2,Luar Negeri,arc,Tidak,Ya,17,15,6,ucl
+Reguler,S2,Dalam negeri,Psi,Tidak,Tidak,13,14,5,UI
+Targeted,S2,Dalam negeri,BUS,Tidak,Ya,12,18,7,
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,19,6,UGM
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,12,11,7,Universitas Gadjah Mada
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,15,14,7,ITB
+Afirmasi,S2,Dalam negeri,BUS,Tidak,Ya,16,9,5,Universitas Indonesia
+Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Tidak,16,6,5,undip
+Targeted,S3,Dalam negeri,BUS,"Ya, dengan Loa",Tidak,15,6,4,unpad
+Afirmasi,S2,Dalam negeri,TP,Tidak,Tidak,0,0,0,Universitas Sebelas Maret
+Reguler,S2,Luar Negeri,PSY,Tidak,Tidak,16,5,7,
+Reguler,S2,Luar Negeri,DEV,Tidak,Tidak,18,7,9,
+Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Ya,12,12,7,
+Targeted,S3,Dalam negeri,HUM,Tidak,Tidak,10,7,7,UGM
+Reguler,S2,Dalam negeri,FOR,Tidak,Tidak,14,13,9,ITB
+Afirmasi,S2,Dalam negeri,TFM,Tidak,Ya,11,7,5,UGM
+Targeted,S3,Dalam negeri,TRP,Tidak,Tidak,18,11,7,Unhas
+Targeted,S2,Dalam negeri,TRP,Tidak,Tidak,9,8,8,Universitas Airlangga
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Tidak,13,7,9,UNY
+Afirmasi,S2,Dalam negeri,Bus,Tidak,Tidak,9,2,4,ISI Denpasar
+Afirmasi,S2,Dalam negeri,AGB,Tidak,Ya,8,10,4,Institut Pertanian Bogor
+Targeted,S2,Dalam negeri,TRP,Tidak,Tidak,13,8,6,Universitas Indonesia
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Tidak,14,13,7,Upi
+Targeted,S2,Luar Negeri,BUS,Tidak,Ya,17,9,7,
+Afirmasi,S2,Dalam negeri,Law,Tidak,Tidak,15,11,5,Universitas Indonesia
+Targeted,S2,Dalam negeri,BUS,Tidak,Tidak,13,13,8,Universitas hasanuddin
+Afirmasi,S2,Dalam negeri,TRP,Tidak,Tidak,12,7,5,Universitas Negeri Yogyakarta
+Targeted,S2,Dalam negeri,BUS,Tidak,Tidak,8,14,4,UGM
+Targeted,S2,Dalam negeri,TRP,Tidak,Tidak,16,8,5,UI
+Afirmasi,S2,Luar Negeri,BUS,Tidak,Tidak,18,18,4,Kings College London
+Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,15,13,7,Universitas Airlangga
+Reguler,S2,Dalam negeri,IPA,Tidak,Tidak,11,10,5,ITB
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,11,7,7,UB
+Reguler,S3,Dalam negeri,Hum,Tidak,Tidak,12,6,7,
+Reguler,S2,Luar Negeri,FOO,"Ya, dengan Loa",Ya,19,23,10,
+Reguler,S2,Dalam negeri,TRP,Tidak,Ya,17,9,9,ITB
+Reguler,S3,Dalam negeri,TRP,Tidak,Tidak,13,14,8,
+Reguler,S2,Dalam negeri,BUS,Tidak,Ya,18,12,7,
+Reguler,S2,Dalam negeri,BUS,Tidak,Tidak,13,9,7,Unhas
+Targeted,S2,Luar Negeri,ENT,Tidak,Ya,14,13,10,
+Targeted,S2,Dalam negeri,TRP,Tidak,Tidak,15,9,6,"UGM, UI"
+Targeted,S2,Dalam negeri,SOS,"Ya, dengan Loa",Ya,15,7,7,UGM
+Targeted,S2,Dalam negeri,TRP,Tidak,Tidak,15,5,5,Institut Teknologi Bandung
+Reguler,S2,Dalam negeri,718,Tidak,Tidak,23,25,12,UGM
+Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,14,14,6,UI
+Targeted,S2,Luar Negeri,ENT,Tidak,Tidak,15,7,9,Imperial College London
+Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,11,6,
+Reguler,S2,Luar Negeri,PSY,Tidak,Ya,18,12,7,
